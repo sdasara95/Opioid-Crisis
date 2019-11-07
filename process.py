@@ -68,7 +68,7 @@ def is_none(value):
     else:
         return False
 
-if __name__ == "main":
+if __name__ == "__main__":
     
     date = 'TRANSACTION_DATE'     
     
@@ -130,10 +130,10 @@ if __name__ == "main":
         except StopIteration:
             break
     
-    out_file = open('pill_count','w+')
+    out_file = open('pill_count.json','w+')
     json.dump(pill_count,out_file)
     out_file.close()
-    out_file = open('pill_count_gms','w+')
+    out_file = open('pill_count_gms.json','w+')
     json.dump(pill_count_gms,out_file)
     out_file.close()
             
