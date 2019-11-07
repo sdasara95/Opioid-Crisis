@@ -42,9 +42,13 @@ def fetch_col(df,row_number,col,fetch_date=fetch_date):
         return year,month
     
     try:
-        value = int(value)
+        value = float(value)
+        if np.isnan(value):
+            # Contains NA
+            return None
+        else:
+            value = int(value)
     except:
         value = str(value)
     return value
 
-fetch_col(df1,1,'REPORTER_DEA_NO')
