@@ -6,6 +6,7 @@ Created on Wed Nov  6 18:11:02 2019
 """
 import os
 import pandas as pd
+import numpy as np
 
 chunksize = 1000
 os.chdir(r'C:\Users\Satya\Desktop\dviz\arcos_all_washpost.tsv')
