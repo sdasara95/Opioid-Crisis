@@ -57,7 +57,7 @@ def fetch_col(df,row_number,col,fetch_date=fetch_date):
             # Contains NA/ Do sanity check
             return None
         else:
-            value = int(value)
+            pass
     except:
         value = str(value)
     return value
@@ -93,12 +93,12 @@ if __name__ == "main":
     pill_count = {}
     pill_count_gms = {}
     
+    chunk_count = 1
     while True:
         try:
             df = next(pt)
             # For each row in the chunk dataframe
             for i in range(len(df)):
-                
                 row_num = i
                 
                 state1 = fetch_col(df,row_num,buyer_state)
@@ -109,13 +109,14 @@ if __name__ == "main":
                 
                 list_interested = [state1,county1,quantity1,weight1,year1,month1]
                 contains_na = False
-                for i in list_interested:
-                    if is_none:
-                        contains_na = True
                 
+                for i in list_interested:
+                    if is_none(i):
+                        contains_na = True
+                    
                 if contains_na:
                     continue
-                
+                                
                 total_gms = weight1*quantity1
                 try:
                     pill_count[year1][state1][county1]+=quantity1
@@ -124,6 +125,8 @@ if __name__ == "main":
                     pill_count.setdefault(year1, {}).setdefault(state1, {})[county1] = quantity1                 
                     pill_count_gms.setdefault(year1, {}).setdefault(state1, {})[county1] = total_gms                 
             
+            print('Chunk {} done!'.format(chunk_count))
+            chunk_count+=1
         except StopIteration:
             break
     
