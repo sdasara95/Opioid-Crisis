@@ -8,13 +8,18 @@ import os
 import pandas as pd
 import numpy as np
 
-chunksize = 1000
-os.chdir(r'C:\Users\Satya\Desktop\dviz\arcos_all_washpost.tsv')
-df = pd.read_table('arcos_all_washpost.tsv', sep='\t',chunksize=chunksize, header=0)
+chunksize = 100000
 
-df1 = next(df)
+def set_dir(path=r'C:\Users\Satya\Desktop\dviz\arcos_all_washpost.tsv'):
+    try:    
+        os.chdir(path)
+        print('Path set successfully!')
+    except:
+        print('Path Error')
 
-df1['TRANSACTION_DATE']
+def read_pointer(file='arcos_all_washpost.tsv',chunksize=chunksize):
+    pointer = pd.read_table('arcos_all_washpost.tsv', sep='\t',chunksize=chunksize, header=0)
+    return pointer
 
 def fetch_date(df,row_number,col='TRANSACTION_DATE'):
     date = df[col].iloc[row_number]
