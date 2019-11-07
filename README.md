@@ -3,9 +3,9 @@ Objective is to replicate the visualizations of Washington Post on ARCOS dataset
 
 The following links contain the visualizations we aim to replicate:
 
-* <https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/>
+<https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/>
 
-* <https://www.washingtonpost.com/graphics/2019/investigations/pharmacies-pain-pill-map/>
+<https://www.washingtonpost.com/graphics/2019/investigations/pharmacies-pain-pill-map/>
 
 We have used the data aggregated by Washington Post from ARCOS dataset.
 The link can be found here:
