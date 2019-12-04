@@ -1,4 +1,4 @@
-	"Year"	"Year Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	Year	Year Code	County	County Code	Deaths	Population	Crude Rate
 	"1999"	"1999"	"Baldwin County, AL"	"01003"	13	137555	Unreliable
 	"1999"	"1999"	"Jefferson County, AL"	"01073"	42	662845	6.3
 	"1999"	"1999"	"Madison County, AL"	"01089"	12	274692	Unreliable
