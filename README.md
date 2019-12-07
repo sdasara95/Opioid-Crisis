@@ -15,3 +15,5 @@ The link can be found here:
 The data dictionary can be found here:
 https://github.com/wpinvestigative/arcos-api/blob/master/data/data_dictionary.csv
 
+The notebook <b>main.ipynb</b> contains the final code.
+
