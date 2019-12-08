@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.4.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "layer": [{"data": {"url": "https://vega.github.io/vega-datasets/data/us-10m.json#", "format": {"feature": "counties", "type": "topojson"}}, "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.05}, "encoding": {"color": {"condition": {"type": "quantitative", "field": "Pill_per_pop", "scale": {"scheme": "yellowgreenblue", "type": "linear"}, "test": "datum.Pill_per_pop > 0"}, "value": "#EEFBB3"}}, "height": 400, "projection": {"type": "albersUsa"}, "selection": {"year": {"type": "single", "fields": ["year"], "bind": {"input": "range", "max": 2012, "min": 2006, "step": 1}, "init": {"year": 2006}}}, "transform": [{"lookup": "id", "from": {"data": {"url": "altair-data-0626cf39e4bc841480c7e099e14d2f5e.json", "format": {"type": "json"}}, "key": "fips", "fields": ["2006", "2007", "2008", "2009", "2010", "2011", "2012", "BUYER_COUNTY", "state"]}}, {"fold": ["2006", "2007", "2008", "2009", "2010", "2011", "2012"], "as": ["year", "Pill_per_pop"]}, {"calculate": "parseInt(datum.year)", "as": "year"}, {"calculate": "isValid(datum.Pill_per_pop) ? datum.Pill_per_pop : -1", "as": "Pill_per_pop"}, {"filter": {"selection": "year"}}], "width": 700}, {"data": {"url": "https://vega.github.io/vega-datasets/data/us-10m.json", "format": {"feature": "states", "type": "topojson"}}, "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.15}, "projection": {"type": "albersUsa"}}, {"data": {"url": "https://vega.github.io/vega-datasets/data/us-10m.json#", "format": {"feature": "counties", "type": "topojson"}}, "mark": {"type": "geoshape", "fillOpacity": 0}, "encoding": {"tooltip": [{"type": "nominal", "field": "BUYER_COUNTY"}, {"type": "nominal", "field": "state"}, {"type": "quantitative", "field": "Pill_per_pop"}, {"type": "quantitative", "field": "year"}]}, "height": 400, "projection": {"type": "albersUsa"}, "title": "Pills per person", "transform": [{"lookup": "id", "from": {"data": {"url": "altair-data-0626cf39e4bc841480c7e099e14d2f5e.json", "format": {"type": "json"}}, "key": "fips", "fields": ["2006", "2007", "2008", "2009", "2010", "2011", "2012", "BUYER_COUNTY", "state"]}}, {"fold": ["2006", "2007", "2008", "2009", "2010", "2011", "2012"], "as": ["year", "Pill_per_pop"]}, {"calculate": "parseInt(datum.year)", "as": "year"}, {"calculate": "isValid(datum.Pill_per_pop) ? datum.Pill_per_pop : -1", "as": "Pill_per_pop"}], "width": 700}], "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json"};
+      var embedOpt = {"renderer": "svg", "mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
