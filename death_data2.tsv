@@ -1,0 +1,1927 @@
+"Year"	"Year Code"	"State"	"State Code"	"County"	"County Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"2006"	"2006"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	23	371236	6.2
+	"2006"	"2006"	"Alabama"	"01"	"Mobile County, AL"	"01097"	"White"	"2106-3"	10	252038	Unreliable
+	"2006"	"2006"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	132	3222564	4.1
+	"2006"	"2006"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	34	834649	4.1
+	"2006"	"2006"	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"White"	"2106-3"	10	232701	Unreliable
+	"2006"	"2006"	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	15	821651	Unreliable
+	"2006"	"2006"	"California"	"06"	"Butte County, CA"	"06007"	"White"	"2106-3"	15	196800	Unreliable
+	"2006"	"2006"	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	15	732441	Unreliable
+	"2006"	"2006"	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	33	712905	4.6
+	"2006"	"2006"	"California"	"06"	"Humboldt County, CA"	"06023"	"White"	"2106-3"	15	117178	Unreliable
+	"2006"	"2006"	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	19	673025	Unreliable
+	"2006"	"2006"	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	31	985577	3.1
+	"2006"	"2006"	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	214	7196355	3.0
+	"2006"	"2006"	"California"	"06"	"Marin County, CA"	"06041"	"White"	"2106-3"	21	218242	9.6
+	"2006"	"2006"	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	145	2311317	6.3
+	"2006"	"2006"	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	33	1697896	1.9
+	"2006"	"2006"	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	63	963387	6.5
+	"2006"	"2006"	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	36	1592216	2.3
+	"2006"	"2006"	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	109	2369882	4.6
+	"2006"	"2006"	"California"	"06"	"San Francisco County, CA"	"06075"	"White"	"2106-3"	10	433311	Unreliable
+	"2006"	"2006"	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	11	482882	Unreliable
+	"2006"	"2006"	"California"	"06"	"San Luis Obispo County, CA"	"06079"	"White"	"2106-3"	10	240114	Unreliable
+	"2006"	"2006"	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	23	1066123	2.2
+	"2006"	"2006"	"California"	"06"	"Solano County, CA"	"06095"	"White"	"2106-3"	10	262964	Unreliable
+	"2006"	"2006"	"California"	"06"	"Sonoma County, CA"	"06097"	"White"	"2106-3"	24	423240	5.7
+	"2006"	"2006"	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	14	443257	Unreliable
+	"2006"	"2006"	"California"	"06"	"Tulare County, CA"	"06107"	"White"	"2106-3"	17	376800	Unreliable
+	"2006"	"2006"	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	48	704106	6.8
+	"2006"	"2006"	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	24	365862	6.6
+	"2006"	"2006"	"Colorado"	"08"	"Boulder County, CO"	"08013"	"White"	"2106-3"	16	265715	Unreliable
+	"2006"	"2006"	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	17	458034	Unreliable
+	"2006"	"2006"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	12	492320	Unreliable
+	"2006"	"2006"	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	11	268541	Unreliable
+	"2006"	"2006"	"Colorado"	"08"	"Pueblo County, CO"	"08101"	"White"	"2106-3"	16	142352	Unreliable
+	"2006"	"2006"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	15	746385	Unreliable
+	"2006"	"2006"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	22	715178	3.1
+	"2006"	"2006"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	29	700432	4.1
+	"2006"	"2006"	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	18	378333	Unreliable
+	"2006"	"2006"	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"Black or African American"	"2054-5"	20	325064	6.2
+	"2006"	"2006"	"Florida"	"12"	"Bay County, FL"	"12005"	"White"	"2106-3"	24	141785	16.9
+	"2006"	"2006"	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	36	466245	7.7
+	"2006"	"2006"	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	62	1212910	5.1
+	"2006"	"2006"	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	31	549273	5.6
+	"2006"	"2006"	"Florida"	"12"	"Escambia County, FL"	"12033"	"White"	"2106-3"	16	219038	Unreliable
+	"2006"	"2006"	"Florida"	"12"	"Hernando County, FL"	"12053"	"White"	"2106-3"	14	153506	Unreliable
+	"2006"	"2006"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	65	924316	7.0
+	"2006"	"2006"	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	33	523665	6.3
+	"2006"	"2006"	"Florida"	"12"	"Manatee County, FL"	"12081"	"White"	"2106-3"	18	278177	Unreliable
+	"2006"	"2006"	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	27	271475	9.9
+	"2006"	"2006"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	44	1858547	2.4
+	"2006"	"2006"	"Florida"	"12"	"Okaloosa County, FL"	"12091"	"White"	"2106-3"	14	157445	Unreliable
+	"2006"	"2006"	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	47	783760	6.0
+	"2006"	"2006"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	39	1025349	3.8
+	"2006"	"2006"	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	26	410450	6.3
+	"2006"	"2006"	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	44	795785	5.5
+	"2006"	"2006"	"Florida"	"12"	"St. Johns County, FL"	"12109"	"White"	"2106-3"	12	154357	Unreliable
+	"2006"	"2006"	"Florida"	"12"	"Santa Rosa County, FL"	"12113"	"White"	"2106-3"	12	130599	Unreliable
+	"2006"	"2006"	"Florida"	"12"	"Sarasota County, FL"	"12115"	"White"	"2106-3"	20	347444	5.8
+	"2006"	"2006"	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	12	348034	Unreliable
+	"2006"	"2006"	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	23	431905	5.3
+	"2006"	"2006"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"White"	"2106-3"	18	423356	Unreliable
+	"2006"	"2006"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	15	498112	Unreliable
+	"2006"	"2006"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"Asian or Pacific Islander"	"A-PI"	34	651755	5.2
+	"2006"	"2006"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"White"	"2106-3"	21	242009	8.7
+	"2006"	"2006"	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	17	345131	Unreliable
+	"2006"	"2006"	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	27	1367373	2.0
+	"2006"	"2006"	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	47	3443029	1.4
+	"2006"	"2006"	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	10	770670	Unreliable
+	"2006"	"2006"	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	12	591074	Unreliable
+	"2006"	"2006"	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	16	364703	Unreliable
+	"2006"	"2006"	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	12	468387	Unreliable
+	"2006"	"2006"	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	21	395705	5.3
+	"2006"	"2006"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"White"	"2106-3"	13	228041	Unreliable
+	"2006"	"2006"	"Kentucky"	"21"	"Pike County, KY"	"21195"	"White"	"2106-3"	11	64845	Unreliable
+	"2006"	"2006"	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	24	193008	12.4
+	"2006"	"2006"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	19	554311	Unreliable
+	"2006"	"2006"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	20	411697	4.9
+	"2006"	"2006"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"White"	"2106-3"	13	191828	Unreliable
+	"2006"	"2006"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"White"	"2106-3"	13	508252	Unreliable
+	"2006"	"2006"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	21	659105	3.2
+	"2006"	"2006"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	13	399576	Unreliable
+	"2006"	"2006"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	28	1253769	2.2
+	"2006"	"2006"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"White"	"2106-3"	13	565822	Unreliable
+	"2006"	"2006"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"White"	"2106-3"	16	435628	Unreliable
+	"2006"	"2006"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	20	441841	4.5
+	"2006"	"2006"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	22	716319	3.1
+	"2006"	"2006"	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	17	511720	Unreliable
+	"2006"	"2006"	"Michigan"	"26"	"Livingston County, MI"	"26093"	"White"	"2106-3"	11	177780	Unreliable
+	"2006"	"2006"	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	43	749356	5.7
+	"2006"	"2006"	"Michigan"	"26"	"Oakland County, MI"	"26125"	"White"	"2106-3"	10	976123	Unreliable
+	"2006"	"2006"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"White"	"2106-3"	27	267396	10.1
+	"2006"	"2006"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	47	823603	5.7
+	"2006"	"2006"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	74	1046139	7.1
+	"2006"	"2006"	"Minnesota"	"27"	"Anoka County, MN"	"27003"	"White"	"2106-3"	10	295579	Unreliable
+	"2006"	"2006"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	19	899044	Unreliable
+	"2006"	"2006"	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	16	247669	Unreliable
+	"2006"	"2006"	"Missouri"	"29"	"Jefferson County, MO"	"29099"	"White"	"2106-3"	12	208537	Unreliable
+	"2006"	"2006"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	20	738078	2.7
+	"2006"	"2006"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	11	166598	Unreliable
+	"2006"	"2006"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"White"	"2106-3"	15	142569	Unreliable
+	"2006"	"2006"	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	131	1410411	9.3
+	"2006"	"2006"	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	24	354911	6.8
+	"2006"	"2006"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"White"	"2106-3"	10	200569	Unreliable
+	"2006"	"2006"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"White"	"2106-3"	12	707001	Unreliable
+	"2006"	"2006"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Black or African American"	"2054-5"	14	341013	Unreliable
+	"2006"	"2006"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"White"	"2106-3"	17	398165	Unreliable
+	"2006"	"2006"	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"White"	"2106-3"	15	428940	Unreliable
+	"2006"	"2006"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"White"	"2106-3"	10	542715	Unreliable
+	"2006"	"2006"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"White"	"2106-3"	17	542334	Unreliable
+	"2006"	"2006"	"New Jersey"	"34"	"Union County, NJ"	"34039"	"White"	"2106-3"	12	374757	Unreliable
+	"2006"	"2006"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	68	553149	12.3
+	"2006"	"2006"	"New Mexico"	"35"	"Sandoval County, NM"	"35043"	"White"	"2106-3"	10	91769	Unreliable
+	"2006"	"2006"	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	"White"	"2106-3"	10	129416	Unreliable
+	"2006"	"2006"	"New Mexico"	"35"	"Valencia County, NM"	"35061"	"White"	"2106-3"	14	66163	Unreliable
+	"2006"	"2006"	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	18	610287	Unreliable
+	"2006"	"2006"	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	20	642668	3.1
+	"2006"	"2006"	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	13	942982	Unreliable
+	"2006"	"2006"	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	28	1223735	2.3
+	"2006"	"2006"	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	33	1069369	3.1
+	"2006"	"2006"	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	15	1057607	Unreliable
+	"2006"	"2006"	"New York"	"36"	"Orange County, NY"	"36071"	"White"	"2106-3"	15	314872	Unreliable
+	"2006"	"2006"	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	18	1160229	Unreliable
+	"2006"	"2006"	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	15	368259	Unreliable
+	"2006"	"2006"	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	53	1294742	4.1
+	"2006"	"2006"	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	16	723685	Unreliable
+	"2006"	"2006"	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"White"	"2106-3"	14	233677	Unreliable
+	"2006"	"2006"	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"White"	"2106-3"	16	163294	Unreliable
+	"2006"	"2006"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	12	289803	Unreliable
+	"2006"	"2006"	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	11	571128	Unreliable
+	"2006"	"2006"	"Ohio"	"39"	"Butler County, OH"	"39017"	"White"	"2106-3"	17	321203	Unreliable
+	"2006"	"2006"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	37	879920	4.2
+	"2006"	"2006"	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	27	824734	3.3
+	"2006"	"2006"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	23	576244	4.0
+	"2006"	"2006"	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	12	414850	Unreliable
+	"2006"	"2006"	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	20	451606	4.4
+	"2006"	"2006"	"Ohio"	"39"	"Trumbull County, OH"	"39155"	"White"	"2106-3"	13	195547	Unreliable
+	"2006"	"2006"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"White"	"2106-3"	12	203694	Unreliable
+	"2006"	"2006"	"Oklahoma"	"40"	"Creek County, OK"	"40037"	"White"	"2106-3"	10	57969	Unreliable
+	"2006"	"2006"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	35	521078	6.7
+	"2006"	"2006"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	33	453741	7.3
+	"2006"	"2006"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"White"	"2106-3"	21	340391	6.2
+	"2006"	"2006"	"Oregon"	"41"	"Jackson County, OR"	"41029"	"White"	"2106-3"	31	188574	16.4
+	"2006"	"2006"	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	13	319780	Unreliable
+	"2006"	"2006"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	62	575070	10.8
+	"2006"	"2006"	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	12	437779	Unreliable
+	"2006"	"2006"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	26	1025850	2.5
+	"2006"	"2006"	"Pennsylvania"	"42"	"Cambria County, PA"	"42021"	"White"	"2106-3"	14	139732	Unreliable
+	"2006"	"2006"	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"White"	"2106-3"	11	203998	Unreliable
+	"2006"	"2006"	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	"White"	"2106-3"	12	354197	Unreliable
+	"2006"	"2006"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	21	530788	4.0
+	"2006"	"2006"	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"White"	"2106-3"	10	220202	Unreliable
+	"2006"	"2006"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	35	327674	10.7
+	"2006"	"2006"	"South Carolina"	"45"	"Pickens County, SC"	"45077"	"White"	"2106-3"	14	105585	Unreliable
+	"2006"	"2006"	"South Carolina"	"45"	"Spartanburg County, SC"	"45083"	"White"	"2106-3"	17	205486	Unreliable
+	"2006"	"2006"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	24	405304	5.9
+	"2006"	"2006"	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	15	246876	Unreliable
+	"2006"	"2006"	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	37	364526	10.2
+	"2006"	"2006"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	10	416596	Unreliable
+	"2006"	"2006"	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	30	1387954	2.2
+	"2006"	"2006"	"Texas"	"48"	"Brazoria County, TX"	"48039"	"White"	"2106-3"	21	236890	8.9
+	"2006"	"2006"	"Texas"	"48"	"Collin County, TX"	"48085"	"White"	"2106-3"	10	553051	Unreliable
+	"2006"	"2006"	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	12	1620713	Unreliable
+	"2006"	"2006"	"Texas"	"48"	"El Paso County, TX"	"48141"	"White"	"2106-3"	28	701606	4.0
+	"2006"	"2006"	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"White"	"2106-3"	11	301021	Unreliable
+	"2006"	"2006"	"Texas"	"48"	"Galveston County, TX"	"48167"	"White"	"2106-3"	21	226443	9.3
+	"2006"	"2006"	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	18	761723	Unreliable
+	"2006"	"2006"	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	150	2771787	5.4
+	"2006"	"2006"	"Texas"	"48"	"Jefferson County, TX"	"48245"	"White"	"2106-3"	18	149790	Unreliable
+	"2006"	"2006"	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	48	363300	13.2
+	"2006"	"2006"	"Texas"	"48"	"Nueces County, TX"	"48355"	"White"	"2106-3"	16	305942	Unreliable
+	"2006"	"2006"	"Texas"	"48"	"Orange County, TX"	"48361"	"White"	"2106-3"	23	73235	31.4
+	"2006"	"2006"	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	24	1319037	1.8
+	"2006"	"2006"	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	14	769697	Unreliable
+	"2006"	"2006"	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	19	265061	Unreliable
+	"2006"	"2006"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	100	888534	11.3
+	"2006"	"2006"	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	43	430764	10.0
+	"2006"	"2006"	"Utah"	"49"	"Weber County, UT"	"49057"	"White"	"2106-3"	14	202127	Unreliable
+	"2006"	"2006"	"Virginia"	"51"	"Henry County, VA"	"51089"	"White"	"2106-3"	10	42419	Unreliable
+	"2006"	"2006"	"Virginia"	"51"	"Tazewell County, VA"	"51185"	"White"	"2106-3"	12	42706	Unreliable
+	"2006"	"2006"	"Virginia"	"51"	"Wise County, VA"	"51195"	"White"	"2106-3"	10	39042	Unreliable
+	"2006"	"2006"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"White"	"2106-3"	14	316310	Unreliable
+	"2006"	"2006"	"Washington"	"53"	"Cowlitz County, WA"	"53015"	"White"	"2106-3"	11	94210	Unreliable
+	"2006"	"2006"	"Washington"	"53"	"Grant County, WA"	"53025"	"White"	"2106-3"	11	76989	Unreliable
+	"2006"	"2006"	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	78	1396339	5.6
+	"2006"	"2006"	"Washington"	"53"	"Kitsap County, WA"	"53035"	"White"	"2106-3"	12	214718	Unreliable
+	"2006"	"2006"	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	30	621721	4.8
+	"2006"	"2006"	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	41	577600	7.1
+	"2006"	"2006"	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	28	416498	6.7
+	"2006"	"2006"	"West Virginia"	"54"	"Cabell County, WV"	"54011"	"White"	"2106-3"	14	88718	Unreliable
+	"2006"	"2006"	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"White"	"2106-3"	20	175387	11.4
+	"2006"	"2006"	"West Virginia"	"54"	"Logan County, WV"	"54045"	"White"	"2106-3"	14	35383	Unreliable
+	"2006"	"2006"	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	"White"	"2106-3"	14	70476	Unreliable
+	"2006"	"2006"	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	"White"	"2106-3"	14	24059	Unreliable
+	"2006"	"2006"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	22	416068	5.3
+	"2006"	"2006"	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"White"	"2106-3"	11	146829	Unreliable
+	"2006"	"2006"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	11	256355	Unreliable
+	"2006"	"2006"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	75	632121	11.9
+	"2006"	"2006"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"White"	"2106-3"	13	365026	Unreliable
+	"2007"	"2007"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	34	368690	9.2
+	"2007"	"2007"	"Alabama"	"01"	"Mobile County, AL"	"01097"	"White"	"2106-3"	12	252839	Unreliable
+	"2007"	"2007"	"Arizona"	"04"	"Cochise County, AZ"	"04003"	"White"	"2106-3"	12	115819	Unreliable
+	"2007"	"2007"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	10	201805	Unreliable
+	"2007"	"2007"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	166	3265928	5.1
+	"2007"	"2007"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	30	844904	3.6
+	"2007"	"2007"	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"White"	"2106-3"	20	200080	10.0
+	"2007"	"2007"	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"White"	"2106-3"	10	232446	Unreliable
+	"2007"	"2007"	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	12	821851	Unreliable
+	"2007"	"2007"	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	17	733756	Unreliable
+	"2007"	"2007"	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	33	719575	4.6
+	"2007"	"2007"	"California"	"06"	"Humboldt County, CA"	"06023"	"White"	"2106-3"	10	116845	Unreliable
+	"2007"	"2007"	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	33	687064	4.8
+	"2007"	"2007"	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	18	974207	Unreliable
+	"2007"	"2007"	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	203	7145399	2.8
+	"2007"	"2007"	"California"	"06"	"Marin County, CA"	"06041"	"White"	"2106-3"	18	219267	Unreliable
+	"2007"	"2007"	"California"	"06"	"Mendocino County, CA"	"06045"	"White"	"2106-3"	10	78421	Unreliable
+	"2007"	"2007"	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	157	2295298	6.8
+	"2007"	"2007"	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	27	1740866	1.6
+	"2007"	"2007"	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	25	963726	2.6
+	"2007"	"2007"	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	22	1601694	1.4
+	"2007"	"2007"	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	166	2384314	7.0
+	"2007"	"2007"	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	31	482616	6.4
+	"2007"	"2007"	"California"	"06"	"San Mateo County, CA"	"06081"	"White"	"2106-3"	10	471713	Unreliable
+	"2007"	"2007"	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	44	1067371	4.1
+	"2007"	"2007"	"California"	"06"	"Shasta County, CA"	"06089"	"White"	"2106-3"	11	162717	Unreliable
+	"2007"	"2007"	"California"	"06"	"Sonoma County, CA"	"06097"	"White"	"2106-3"	32	424301	7.5
+	"2007"	"2007"	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	21	444480	4.7
+	"2007"	"2007"	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	43	703079	6.1
+	"2007"	"2007"	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	28	373336	7.5
+	"2007"	"2007"	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	12	445543	Unreliable
+	"2007"	"2007"	"Colorado"	"08"	"Boulder County, CO"	"08013"	"White"	"2106-3"	17	268470	Unreliable
+	"2007"	"2007"	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	45	463692	9.7
+	"2007"	"2007"	"Colorado"	"08"	"El Paso County, CO"	"08041"	"White"	"2106-3"	14	511943	Unreliable
+	"2007"	"2007"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	24	494816	4.9
+	"2007"	"2007"	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	16	273339	Unreliable
+	"2007"	"2007"	"Colorado"	"08"	"Pueblo County, CO"	"08101"	"White"	"2106-3"	13	144845	Unreliable
+	"2007"	"2007"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	14	745296	Unreliable
+	"2007"	"2007"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	13	713881	Unreliable
+	"2007"	"2007"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	23	699747	3.3
+	"2007"	"2007"	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	28	377086	7.4
+	"2007"	"2007"	"Florida"	"12"	"Bay County, FL"	"12005"	"White"	"2106-3"	15	141126	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	23	467672	4.9
+	"2007"	"2007"	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	77	1190887	6.5
+	"2007"	"2007"	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	36	551751	6.5
+	"2007"	"2007"	"Florida"	"12"	"Escambia County, FL"	"12033"	"White"	"2106-3"	14	215626	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Hernando County, FL"	"12053"	"White"	"2106-3"	13	157976	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	124	930021	13.3
+	"2007"	"2007"	"Florida"	"12"	"Lake County, FL"	"12069"	"White"	"2106-3"	10	253239	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	51	540978	9.4
+	"2007"	"2007"	"Florida"	"12"	"Manatee County, FL"	"12081"	"White"	"2106-3"	20	279832	7.1
+	"2007"	"2007"	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	14	278459	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	44	1872023	2.4
+	"2007"	"2007"	"Florida"	"12"	"Monroe County, FL"	"12087"	"White"	"2106-3"	13	67182	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Okaloosa County, FL"	"12091"	"White"	"2106-3"	15	156188	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	57	791538	7.2
+	"2007"	"2007"	"Florida"	"12"	"Osceola County, FL"	"12097"	"White"	"2106-3"	12	210448	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	58	1021168	5.7
+	"2007"	"2007"	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	39	421053	9.3
+	"2007"	"2007"	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	57	787931	7.2
+	"2007"	"2007"	"Florida"	"12"	"Polk County, FL"	"12105"	"White"	"2106-3"	12	482611	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"St. Johns County, FL"	"12109"	"White"	"2106-3"	14	160392	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"White"	"2106-3"	17	209694	Unreliable
+	"2007"	"2007"	"Florida"	"12"	"Sarasota County, FL"	"12115"	"White"	"2106-3"	29	350449	8.3
+	"2007"	"2007"	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	30	347046	8.6
+	"2007"	"2007"	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	51	434073	11.7
+	"2007"	"2007"	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"White"	"2106-3"	14	258222	Unreliable
+	"2007"	"2007"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"White"	"2106-3"	25	429802	5.8
+	"2007"	"2007"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	13	501674	Unreliable
+	"2007"	"2007"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"Asian or Pacific Islander"	"A-PI"	10	656180	Unreliable
+	"2007"	"2007"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"White"	"2106-3"	33	237310	13.9
+	"2007"	"2007"	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	20	355599	5.6
+	"2007"	"2007"	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	30	1354827	2.2
+	"2007"	"2007"	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	39	3433928	1.1
+	"2007"	"2007"	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	23	766870	3.0
+	"2007"	"2007"	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	12	591023	Unreliable
+	"2007"	"2007"	"Illinois"	"17"	"Madison County, IL"	"17119"	"White"	"2106-3"	10	241780	Unreliable
+	"2007"	"2007"	"Illinois"	"17"	"Will County, IL"	"17197"	"White"	"2106-3"	10	556508	Unreliable
+	"2007"	"2007"	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	16	616901	Unreliable
+	"2007"	"2007"	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	12	157828	Unreliable
+	"2007"	"2007"	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	20	369808	5.4
+	"2007"	"2007"	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	20	474848	4.2
+	"2007"	"2007"	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	15	400545	Unreliable
+	"2007"	"2007"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"White"	"2106-3"	23	229850	10.0
+	"2007"	"2007"	"Kentucky"	"21"	"Floyd County, KY"	"21071"	"White"	"2106-3"	11	39715	Unreliable
+	"2007"	"2007"	"Kentucky"	"21"	"Kenton County, KY"	"21117"	"White"	"2106-3"	10	147328	Unreliable
+	"2007"	"2007"	"Kentucky"	"21"	"Pike County, KY"	"21195"	"White"	"2106-3"	15	64614	Unreliable
+	"2007"	"2007"	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	"White"	"2106-3"	10	128474	Unreliable
+	"2007"	"2007"	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	10	296444	Unreliable
+	"2007"	"2007"	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	26	195138	13.3
+	"2007"	"2007"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"White"	"2106-3"	10	264622	Unreliable
+	"2007"	"2007"	"Maine"	"23"	"York County, ME"	"23031"	"White"	"2106-3"	11	193152	Unreliable
+	"2007"	"2007"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	14	416631	Unreliable
+	"2007"	"2007"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	21	549355	3.8
+	"2007"	"2007"	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	15	621557	Unreliable
+	"2007"	"2007"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	30	409791	7.3
+	"2007"	"2007"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"White"	"2106-3"	13	192362	Unreliable
+	"2007"	"2007"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"White"	"2106-3"	21	507577	4.1
+	"2007"	"2007"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	25	658348	3.8
+	"2007"	"2007"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	16	398335	Unreliable
+	"2007"	"2007"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	32	1253411	2.6
+	"2007"	"2007"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"White"	"2106-3"	19	564277	Unreliable
+	"2007"	"2007"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"White"	"2106-3"	18	435502	Unreliable
+	"2007"	"2007"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	24	446167	5.4
+	"2007"	"2007"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	25	716769	3.5
+	"2007"	"2007"	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	19	512790	Unreliable
+	"2007"	"2007"	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	41	745073	5.5
+	"2007"	"2007"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"White"	"2106-3"	19	267485	Unreliable
+	"2007"	"2007"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	65	805898	8.1
+	"2007"	"2007"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	56	1031674	5.4
+	"2007"	"2007"	"Minnesota"	"27"	"Dakota County, MN"	"27037"	"White"	"2106-3"	11	351282	Unreliable
+	"2007"	"2007"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	22	898986	2.4
+	"2007"	"2007"	"Missouri"	"29"	"Clay County, MO"	"29047"	"White"	"2106-3"	10	193726	Unreliable
+	"2007"	"2007"	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	25	251481	9.9
+	"2007"	"2007"	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	26	478013	5.4
+	"2007"	"2007"	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"White"	"2106-3"	14	322294	Unreliable
+	"2007"	"2007"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	25	730067	3.4
+	"2007"	"2007"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"White"	"2106-3"	13	142533	Unreliable
+	"2007"	"2007"	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"White"	"2106-3"	16	416485	Unreliable
+	"2007"	"2007"	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	10	215999	Unreliable
+	"2007"	"2007"	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	158	1446360	10.9
+	"2007"	"2007"	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	24	361336	6.6
+	"2007"	"2007"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"White"	"2106-3"	19	374053	Unreliable
+	"2007"	"2007"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"White"	"2106-3"	11	285437	Unreliable
+	"2007"	"2007"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"White"	"2106-3"	13	200350	Unreliable
+	"2007"	"2007"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"White"	"2106-3"	14	703670	Unreliable
+	"2007"	"2007"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Black or African American"	"2054-5"	12	339194	Unreliable
+	"2007"	"2007"	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	"White"	"2106-3"	10	251531	Unreliable
+	"2007"	"2007"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"White"	"2106-3"	12	539144	Unreliable
+	"2007"	"2007"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"White"	"2106-3"	23	541564	4.2
+	"2007"	"2007"	"New Jersey"	"34"	"Morris County, NJ"	"34027"	"White"	"2106-3"	10	426585	Unreliable
+	"2007"	"2007"	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"White"	"2106-3"	10	533066	Unreliable
+	"2007"	"2007"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	72	560358	12.8
+	"2007"	"2007"	"New Mexico"	"35"	"Dona Ana County, NM"	"35013"	"White"	"2106-3"	10	186250	Unreliable
+	"2007"	"2007"	"New Mexico"	"35"	"Sandoval County, NM"	"35043"	"White"	"2106-3"	11	97163	Unreliable
+	"2007"	"2007"	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	"White"	"2106-3"	11	130651	Unreliable
+	"2007"	"2007"	"New Mexico"	"35"	"Valencia County, NM"	"35061"	"White"	"2106-3"	12	67890	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	10	614520	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	29	639343	4.5
+	"2007"	"2007"	"New York"	"36"	"Dutchess County, NY"	"36027"	"White"	"2106-3"	15	251157	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	11	762763	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	17	933774	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	50	1228014	4.1
+	"2007"	"2007"	"New York"	"36"	"Monroe County, NY"	"36055"	"White"	"2106-3"	19	592837	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	43	1061739	4.0
+	"2007"	"2007"	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	16	1059083	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Orange County, NY"	"36071"	"White"	"2106-3"	12	314385	Unreliable
+	"2007"	"2007"	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	27	1151340	2.3
+	"2007"	"2007"	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	20	368622	5.4
+	"2007"	"2007"	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	75	1291564	5.8
+	"2007"	"2007"	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	23	723016	3.2
+	"2007"	"2007"	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	"White"	"2106-3"	11	210323	Unreliable
+	"2007"	"2007"	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"White"	"2106-3"	21	166108	12.6
+	"2007"	"2007"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	18	293089	Unreliable
+	"2007"	"2007"	"North Carolina"	"37"	"Iredell County, NC"	"37097"	"White"	"2106-3"	14	129232	Unreliable
+	"2007"	"2007"	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	12	546166	Unreliable
+	"2007"	"2007"	"North Carolina"	"37"	"Wilkes County, NC"	"37193"	"White"	"2106-3"	10	65360	Unreliable
+	"2007"	"2007"	"Ohio"	"39"	"Butler County, OH"	"39017"	"White"	"2106-3"	23	323637	7.1
+	"2007"	"2007"	"Ohio"	"39"	"Clark County, OH"	"39023"	"White"	"2106-3"	10	124403	Unreliable
+	"2007"	"2007"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	37	867992	4.3
+	"2007"	"2007"	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	37	828580	4.5
+	"2007"	"2007"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	24	571504	4.2
+	"2007"	"2007"	"Ohio"	"39"	"Lake County, OH"	"39085"	"White"	"2106-3"	12	218130	Unreliable
+	"2007"	"2007"	"Ohio"	"39"	"Lucas County, OH"	"39095"	"White"	"2106-3"	16	347724	Unreliable
+	"2007"	"2007"	"Ohio"	"39"	"Mahoning County, OH"	"39099"	"White"	"2106-3"	11	200037	Unreliable
+	"2007"	"2007"	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	22	411116	5.4
+	"2007"	"2007"	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	19	449773	Unreliable
+	"2007"	"2007"	"Ohio"	"39"	"Trumbull County, OH"	"39155"	"White"	"2106-3"	12	193713	Unreliable
+	"2007"	"2007"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"White"	"2106-3"	13	206580	Unreliable
+	"2007"	"2007"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	56	523640	10.7
+	"2007"	"2007"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	51	457510	11.1
+	"2007"	"2007"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"White"	"2106-3"	19	342960	Unreliable
+	"2007"	"2007"	"Oregon"	"41"	"Jackson County, OR"	"41029"	"White"	"2106-3"	10	190474	Unreliable
+	"2007"	"2007"	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	11	323879	Unreliable
+	"2007"	"2007"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	61	585019	10.4
+	"2007"	"2007"	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	22	441559	5.0
+	"2007"	"2007"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Black or African American"	"2054-5"	14	167329	Unreliable
+	"2007"	"2007"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	84	1019939	8.2
+	"2007"	"2007"	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"White"	"2106-3"	13	204025	Unreliable
+	"2007"	"2007"	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	"White"	"2106-3"	10	197094	Unreliable
+	"2007"	"2007"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	11	526120	Unreliable
+	"2007"	"2007"	"South Carolina"	"45"	"Aiken County, SC"	"45003"	"White"	"2106-3"	11	113034	Unreliable
+	"2007"	"2007"	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"White"	"2106-3"	11	222803	Unreliable
+	"2007"	"2007"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	37	336657	11.0
+	"2007"	"2007"	"Tennessee"	"47"	"Blount County, TN"	"47009"	"White"	"2106-3"	10	114689	Unreliable
+	"2007"	"2007"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	18	408697	Unreliable
+	"2007"	"2007"	"Tennessee"	"47"	"Hamblen County, TN"	"47063"	"White"	"2106-3"	11	57730	Unreliable
+	"2007"	"2007"	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	16	249090	Unreliable
+	"2007"	"2007"	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	34	370402	9.2
+	"2007"	"2007"	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"White"	"2106-3"	10	204536	Unreliable
+	"2007"	"2007"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	11	413700	Unreliable
+	"2007"	"2007"	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	14	1420284	Unreliable
+	"2007"	"2007"	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	14	1624622	Unreliable
+	"2007"	"2007"	"Texas"	"48"	"El Paso County, TX"	"48141"	"White"	"2106-3"	25	711558	3.5
+	"2007"	"2007"	"Texas"	"48"	"Galveston County, TX"	"48167"	"White"	"2106-3"	24	230362	10.4
+	"2007"	"2007"	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	24	763773	3.1
+	"2007"	"2007"	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	211	2812119	7.5
+	"2007"	"2007"	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	29	379770	7.6
+	"2007"	"2007"	"Texas"	"48"	"Nueces County, TX"	"48355"	"White"	"2106-3"	16	306944	Unreliable
+	"2007"	"2007"	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	26	1348481	1.9
+	"2007"	"2007"	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	15	793522	Unreliable
+	"2007"	"2007"	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	32	273605	11.7
+	"2007"	"2007"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	98	901321	10.9
+	"2007"	"2007"	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	50	450373	11.1
+	"2007"	"2007"	"Utah"	"49"	"Weber County, UT"	"49057"	"White"	"2106-3"	28	206568	13.6
+	"2007"	"2007"	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	22	737095	3.0
+	"2007"	"2007"	"Virginia"	"51"	"Wise County, VA"	"51195"	"White"	"2106-3"	19	39015	Unreliable
+	"2007"	"2007"	"Virginia"	"51"	"Norfolk city, VA"	"51710"	"White"	"2106-3"	12	120426	Unreliable
+	"2007"	"2007"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"White"	"2106-3"	16	312805	Unreliable
+	"2007"	"2007"	"Washington"	"53"	"Clark County, WA"	"53011"	"White"	"2106-3"	17	371888	Unreliable
+	"2007"	"2007"	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	76	1405572	5.4
+	"2007"	"2007"	"Washington"	"53"	"Kitsap County, WA"	"53035"	"White"	"2106-3"	10	213614	Unreliable
+	"2007"	"2007"	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	31	626770	4.9
+	"2007"	"2007"	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	49	584943	8.4
+	"2007"	"2007"	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	63	423690	14.9
+	"2007"	"2007"	"Washington"	"53"	"Thurston County, WA"	"53067"	"White"	"2106-3"	11	209053	Unreliable
+	"2007"	"2007"	"West Virginia"	"54"	"Cabell County, WV"	"54011"	"White"	"2106-3"	24	88689	27.1
+	"2007"	"2007"	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"White"	"2106-3"	13	174665	Unreliable
+	"2007"	"2007"	"West Virginia"	"54"	"Logan County, WV"	"54045"	"White"	"2106-3"	14	35386	Unreliable
+	"2007"	"2007"	"West Virginia"	"54"	"McDowell County, WV"	"54047"	"White"	"2106-3"	13	20255	Unreliable
+	"2007"	"2007"	"West Virginia"	"54"	"Mercer County, WV"	"54055"	"White"	"2106-3"	13	57343	Unreliable
+	"2007"	"2007"	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	"White"	"2106-3"	18	70671	Unreliable
+	"2007"	"2007"	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	"White"	"2106-3"	12	23850	Unreliable
+	"2007"	"2007"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	23	420365	5.5
+	"2007"	"2007"	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"White"	"2106-3"	18	147767	Unreliable
+	"2007"	"2007"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	17	258881	Unreliable
+	"2007"	"2007"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	50	629831	7.9
+	"2007"	"2007"	"Wisconsin"	"55"	"Racine County, WI"	"55101"	"White"	"2106-3"	10	167524	Unreliable
+	"2007"	"2007"	"Wisconsin"	"55"	"Rock County, WI"	"55105"	"White"	"2106-3"	14	148175	Unreliable
+	"2007"	"2007"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"White"	"2106-3"	18	367448	Unreliable
+	"2008"	"2008"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	25	367490	6.8
+	"2008"	"2008"	"Alabama"	"01"	"Mobile County, AL"	"01097"	"White"	"2106-3"	15	254004	Unreliable
+	"2008"	"2008"	"Alabama"	"01"	"Shelby County, AL"	"01117"	"White"	"2106-3"	11	164269	Unreliable
+	"2008"	"2008"	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	"White"	"2106-3"	21	204418	10.3
+	"2008"	"2008"	"Alaska"	"02"	"Matanuska-Susitna Borough, AK"	"02170"	"White"	"2106-3"	10	75228	Unreliable
+	"2008"	"2008"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	177	3300491	5.4
+	"2008"	"2008"	"Arizona"	"04"	"Mohave County, AZ"	"04015"	"White"	"2106-3"	16	188557	Unreliable
+	"2008"	"2008"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	33	852233	3.9
+	"2008"	"2008"	"Arizona"	"04"	"Pinal County, AZ"	"04021"	"White"	"2106-3"	14	284503	Unreliable
+	"2008"	"2008"	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"White"	"2106-3"	20	202198	9.9
+	"2008"	"2008"	"Arkansas"	"05"	"Benton County, AR"	"05007"	"White"	"2106-3"	12	196679	Unreliable
+	"2008"	"2008"	"Arkansas"	"05"	"Garland County, AR"	"05051"	"White"	"2106-3"	10	86130	Unreliable
+	"2008"	"2008"	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	10	827644	Unreliable
+	"2008"	"2008"	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	34	738361	4.6
+	"2008"	"2008"	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	46	726367	6.3
+	"2008"	"2008"	"California"	"06"	"Humboldt County, CA"	"06023"	"White"	"2106-3"	18	117060	Unreliable
+	"2008"	"2008"	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	22	697557	3.2
+	"2008"	"2008"	"California"	"06"	"Lake County, CA"	"06033"	"White"	"2106-3"	13	58545	Unreliable
+	"2008"	"2008"	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	25	968638	2.6
+	"2008"	"2008"	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	189	7154598	2.6
+	"2008"	"2008"	"California"	"06"	"Marin County, CA"	"06041"	"White"	"2106-3"	22	220521	10.0
+	"2008"	"2008"	"California"	"06"	"Monterey County, CA"	"06053"	"White"	"2106-3"	14	344355	Unreliable
+	"2008"	"2008"	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	197	2302172	8.6
+	"2008"	"2008"	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	49	1761754	2.8
+	"2008"	"2008"	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	38	965461	3.9
+	"2008"	"2008"	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	37	1604687	2.3
+	"2008"	"2008"	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	160	2412277	6.6
+	"2008"	"2008"	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	37	482124	7.7
+	"2008"	"2008"	"California"	"06"	"San Mateo County, CA"	"06081"	"White"	"2106-3"	12	475584	Unreliable
+	"2008"	"2008"	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	29	1073937	2.7
+	"2008"	"2008"	"California"	"06"	"Santa Cruz County, CA"	"06087"	"White"	"2106-3"	13	233124	Unreliable
+	"2008"	"2008"	"California"	"06"	"Shasta County, CA"	"06089"	"White"	"2106-3"	15	163045	Unreliable
+	"2008"	"2008"	"California"	"06"	"Sonoma County, CA"	"06097"	"White"	"2106-3"	46	428405	10.7
+	"2008"	"2008"	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	36	444176	8.1
+	"2008"	"2008"	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	41	706372	5.8
+	"2008"	"2008"	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	31	380447	8.1
+	"2008"	"2008"	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	14	451928	Unreliable
+	"2008"	"2008"	"Colorado"	"08"	"Boulder County, CO"	"08013"	"White"	"2106-3"	21	271256	7.7
+	"2008"	"2008"	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	48	472304	10.2
+	"2008"	"2008"	"Colorado"	"08"	"El Paso County, CO"	"08041"	"White"	"2106-3"	16	520597	Unreliable
+	"2008"	"2008"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	13	497942	Unreliable
+	"2008"	"2008"	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	16	278335	Unreliable
+	"2008"	"2008"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	20	748306	2.7
+	"2008"	"2008"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	12	712832	Unreliable
+	"2008"	"2008"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	19	699565	Unreliable
+	"2008"	"2008"	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	41	376581	10.9
+	"2008"	"2008"	"Delaware"	"10"	"Sussex County, DE"	"10005"	"White"	"2106-3"	14	160490	Unreliable
+	"2008"	"2008"	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"Black or African American"	"2054-5"	10	318392	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Bay County, FL"	"12005"	"White"	"2106-3"	18	141710	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	29	468146	6.2
+	"2008"	"2008"	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	99	1182514	8.4
+	"2008"	"2008"	"Florida"	"12"	"Citrus County, FL"	"12017"	"White"	"2106-3"	22	135063	16.3
+	"2008"	"2008"	"Florida"	"12"	"Collier County, FL"	"12021"	"White"	"2106-3"	16	288705	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	27	551897	4.9
+	"2008"	"2008"	"Florida"	"12"	"Hernando County, FL"	"12053"	"White"	"2106-3"	38	159830	23.8
+	"2008"	"2008"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	127	935092	13.6
+	"2008"	"2008"	"Florida"	"12"	"Indian River County, FL"	"12061"	"White"	"2106-3"	11	121189	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Lake County, FL"	"12069"	"White"	"2106-3"	19	255204	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	59	544217	10.8
+	"2008"	"2008"	"Florida"	"12"	"Manatee County, FL"	"12081"	"White"	"2106-3"	18	281264	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	22	281270	7.8
+	"2008"	"2008"	"Florida"	"12"	"Martin County, FL"	"12085"	"White"	"2106-3"	14	132757	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	44	1894592	2.3
+	"2008"	"2008"	"Florida"	"12"	"Okaloosa County, FL"	"12091"	"White"	"2106-3"	12	155111	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	59	798463	7.4
+	"2008"	"2008"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	60	1022470	5.9
+	"2008"	"2008"	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	43	426273	10.1
+	"2008"	"2008"	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	57	783672	7.3
+	"2008"	"2008"	"Florida"	"12"	"St. Johns County, FL"	"12109"	"White"	"2106-3"	11	165861	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"White"	"2106-3"	16	212591	Unreliable
+	"2008"	"2008"	"Florida"	"12"	"Sarasota County, FL"	"12115"	"White"	"2106-3"	33	351554	9.4
+	"2008"	"2008"	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	36	348100	10.3
+	"2008"	"2008"	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	70	431642	16.2
+	"2008"	"2008"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	15	400020	Unreliable
+	"2008"	"2008"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"White"	"2106-3"	28	435043	6.4
+	"2008"	"2008"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	17	503194	Unreliable
+	"2008"	"2008"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"White"	"2106-3"	20	239285	8.4
+	"2008"	"2008"	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	21	361913	5.8
+	"2008"	"2008"	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"White"	"2106-3"	11	131408	Unreliable
+	"2008"	"2008"	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	11	1344627	Unreliable
+	"2008"	"2008"	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	27	3439859	0.8
+	"2008"	"2008"	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	13	765911	Unreliable
+	"2008"	"2008"	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	18	592533	Unreliable
+	"2008"	"2008"	"Illinois"	"17"	"Madison County, IL"	"17119"	"White"	"2106-3"	12	242217	Unreliable
+	"2008"	"2008"	"Illinois"	"17"	"Peoria County, IL"	"17143"	"White"	"2106-3"	10	143476	Unreliable
+	"2008"	"2008"	"Illinois"	"17"	"Will County, IL"	"17197"	"White"	"2106-3"	14	559643	Unreliable
+	"2008"	"2008"	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	29	617473	4.7
+	"2008"	"2008"	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	16	157669	Unreliable
+	"2008"	"2008"	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	19	374468	Unreliable
+	"2008"	"2008"	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	17	480738	Unreliable
+	"2008"	"2008"	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	11	405622	Unreliable
+	"2008"	"2008"	"Kentucky"	"21"	"Boyd County, KY"	"21019"	"White"	"2106-3"	17	47292	Unreliable
+	"2008"	"2008"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"White"	"2106-3"	14	232869	Unreliable
+	"2008"	"2008"	"Kentucky"	"21"	"Kenton County, KY"	"21117"	"White"	"2106-3"	12	148078	Unreliable
+	"2008"	"2008"	"Kentucky"	"21"	"Knox County, KY"	"21121"	"White"	"2106-3"	12	31223	Unreliable
+	"2008"	"2008"	"Kentucky"	"21"	"Pike County, KY"	"21195"	"White"	"2106-3"	19	64449	Unreliable
+	"2008"	"2008"	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	14	294395	Unreliable
+	"2008"	"2008"	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	13	197365	Unreliable
+	"2008"	"2008"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"White"	"2106-3"	13	265717	Unreliable
+	"2008"	"2008"	"Maine"	"23"	"York County, ME"	"23031"	"White"	"2106-3"	11	193082	Unreliable
+	"2008"	"2008"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	21	418141	5.0
+	"2008"	"2008"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	31	545420	5.7
+	"2008"	"2008"	"Maryland"	"24"	"Harford County, MD"	"24025"	"White"	"2106-3"	14	203914	Unreliable
+	"2008"	"2008"	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	21	624359	3.4
+	"2008"	"2008"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	11	408226	Unreliable
+	"2008"	"2008"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"White"	"2106-3"	15	193227	Unreliable
+	"2008"	"2008"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"White"	"2106-3"	24	507321	4.7
+	"2008"	"2008"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	28	659483	4.2
+	"2008"	"2008"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	14	397686	Unreliable
+	"2008"	"2008"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	35	1258092	2.8
+	"2008"	"2008"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"White"	"2106-3"	23	564586	4.1
+	"2008"	"2008"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"White"	"2106-3"	15	436403	Unreliable
+	"2008"	"2008"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	21	451922	4.6
+	"2008"	"2008"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	21	716725	2.9
+	"2008"	"2008"	"Michigan"	"26"	"Genesee County, MI"	"26049"	"White"	"2106-3"	34	331751	10.2
+	"2008"	"2008"	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	14	512738	Unreliable
+	"2008"	"2008"	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	34	740014	4.6
+	"2008"	"2008"	"Michigan"	"26"	"Monroe County, MI"	"26115"	"White"	"2106-3"	11	147065	Unreliable
+	"2008"	"2008"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"White"	"2106-3"	20	264271	7.6
+	"2008"	"2008"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	57	784646	7.3
+	"2008"	"2008"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	84	1016851	8.3
+	"2008"	"2008"	"Minnesota"	"27"	"Dakota County, MN"	"27037"	"White"	"2106-3"	15	352597	Unreliable
+	"2008"	"2008"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	30	901089	3.3
+	"2008"	"2008"	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"White"	"2106-3"	16	379342	Unreliable
+	"2008"	"2008"	"Missouri"	"29"	"Clay County, MO"	"29047"	"White"	"2106-3"	11	196368	Unreliable
+	"2008"	"2008"	"Missouri"	"29"	"Franklin County, MO"	"29071"	"White"	"2106-3"	10	99175	Unreliable
+	"2008"	"2008"	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	20	254176	7.9
+	"2008"	"2008"	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	32	478876	6.7
+	"2008"	"2008"	"Missouri"	"29"	"Jefferson County, MO"	"29099"	"White"	"2106-3"	17	211563	Unreliable
+	"2008"	"2008"	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"White"	"2106-3"	18	326527	Unreliable
+	"2008"	"2008"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	49	724681	6.8
+	"2008"	"2008"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	12	162981	Unreliable
+	"2008"	"2008"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"White"	"2106-3"	19	143523	Unreliable
+	"2008"	"2008"	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	13	225785	Unreliable
+	"2008"	"2008"	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	159	1468121	10.8
+	"2008"	"2008"	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	33	365851	9.0
+	"2008"	"2008"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"White"	"2106-3"	17	373801	Unreliable
+	"2008"	"2008"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"White"	"2106-3"	10	286091	Unreliable
+	"2008"	"2008"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"White"	"2106-3"	11	200281	Unreliable
+	"2008"	"2008"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"White"	"2106-3"	17	702422	Unreliable
+	"2008"	"2008"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"White"	"2106-3"	15	536283	Unreliable
+	"2008"	"2008"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"White"	"2106-3"	11	541990	Unreliable
+	"2008"	"2008"	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"White"	"2106-3"	17	536655	Unreliable
+	"2008"	"2008"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	97	565736	17.1
+	"2008"	"2008"	"New Mexico"	"35"	"Dona Ana County, NM"	"35013"	"White"	"2106-3"	13	188861	Unreliable
+	"2008"	"2008"	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	"White"	"2106-3"	13	131732	Unreliable
+	"2008"	"2008"	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	10	620577	Unreliable
+	"2008"	"2008"	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	42	637596	6.6
+	"2008"	"2008"	"New York"	"36"	"Dutchess County, NY"	"36027"	"White"	"2106-3"	14	251457	Unreliable
+	"2008"	"2008"	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	44	759518	5.8
+	"2008"	"2008"	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	12	931116	Unreliable
+	"2008"	"2008"	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	49	1237957	4.0
+	"2008"	"2008"	"New York"	"36"	"Monroe County, NY"	"36055"	"White"	"2106-3"	14	592097	Unreliable
+	"2008"	"2008"	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	50	1058206	4.7
+	"2008"	"2008"	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	38	1062298	3.6
+	"2008"	"2008"	"New York"	"36"	"Onondaga County, NY"	"36067"	"White"	"2106-3"	10	388605	Unreliable
+	"2008"	"2008"	"New York"	"36"	"Orange County, NY"	"36071"	"White"	"2106-3"	17	314389	Unreliable
+	"2008"	"2008"	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	32	1149196	2.8
+	"2008"	"2008"	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	27	369955	7.3
+	"2008"	"2008"	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	74	1293214	5.7
+	"2008"	"2008"	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	16	723904	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	"White"	"2106-3"	11	213061	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Cabarrus County, NC"	"37025"	"White"	"2106-3"	10	140229	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"White"	"2106-3"	10	175213	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Davidson County, NC"	"37057"	"White"	"2106-3"	17	142958	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"White"	"2106-3"	13	239990	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"White"	"2106-3"	11	168718	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	14	296149	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	18	558532	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"New Hanover County, NC"	"37129"	"White"	"2106-3"	16	162315	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Rowan County, NC"	"37159"	"White"	"2106-3"	15	112329	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Rutherford County, NC"	"37161"	"White"	"2106-3"	10	59244	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	16	618036	Unreliable
+	"2008"	"2008"	"North Carolina"	"37"	"Wilkes County, NC"	"37193"	"White"	"2106-3"	13	65668	Unreliable
+	"2008"	"2008"	"Ohio"	"39"	"Butler County, OH"	"39017"	"White"	"2106-3"	35	325031	10.8
+	"2008"	"2008"	"Ohio"	"39"	"Clermont County, OH"	"39025"	"White"	"2106-3"	11	190322	Unreliable
+	"2008"	"2008"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	38	857270	4.4
+	"2008"	"2008"	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	37	834211	4.4
+	"2008"	"2008"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	26	567929	4.6
+	"2008"	"2008"	"Ohio"	"39"	"Lucas County, OH"	"39095"	"White"	"2106-3"	24	344690	7.0
+	"2008"	"2008"	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	18	407892	Unreliable
+	"2008"	"2008"	"Ohio"	"39"	"Scioto County, OH"	"39145"	"White"	"2106-3"	12	75729	Unreliable
+	"2008"	"2008"	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	15	447296	Unreliable
+	"2008"	"2008"	"Ohio"	"39"	"Trumbull County, OH"	"39155"	"White"	"2106-3"	11	191771	Unreliable
+	"2008"	"2008"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"White"	"2106-3"	14	210575	Unreliable
+	"2008"	"2008"	"Oklahoma"	"40"	"Creek County, OK"	"40037"	"White"	"2106-3"	11	58535	Unreliable
+	"2008"	"2008"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	39	526385	7.4
+	"2008"	"2008"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	55	460738	11.9
+	"2008"	"2008"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"White"	"2106-3"	15	346077	Unreliable
+	"2008"	"2008"	"Oregon"	"41"	"Jackson County, OR"	"41029"	"White"	"2106-3"	10	192023	Unreliable
+	"2008"	"2008"	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	22	326520	6.7
+	"2008"	"2008"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	61	596417	10.2
+	"2008"	"2008"	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	17	445985	Unreliable
+	"2008"	"2008"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	65	1015745	6.4
+	"2008"	"2008"	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"White"	"2106-3"	12	372360	Unreliable
+	"2008"	"2008"	"Pennsylvania"	"42"	"Cambria County, PA"	"42021"	"White"	"2106-3"	11	137911	Unreliable
+	"2008"	"2008"	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"White"	"2106-3"	18	203787	Unreliable
+	"2008"	"2008"	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"White"	"2106-3"	21	665604	3.2
+	"2008"	"2008"	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	"White"	"2106-3"	10	197789	Unreliable
+	"2008"	"2008"	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	"White"	"2106-3"	12	353056	Unreliable
+	"2008"	"2008"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	20	522657	3.8
+	"2008"	"2008"	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"White"	"2106-3"	17	227454	Unreliable
+	"2008"	"2008"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	29	344906	8.4
+	"2008"	"2008"	"South Carolina"	"45"	"Pickens County, SC"	"45077"	"White"	"2106-3"	10	107792	Unreliable
+	"2008"	"2008"	"Tennessee"	"47"	"Blount County, TN"	"47009"	"White"	"2106-3"	10	116341	Unreliable
+	"2008"	"2008"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	28	412835	6.8
+	"2008"	"2008"	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	13	251948	Unreliable
+	"2008"	"2008"	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	48	375397	12.8
+	"2008"	"2008"	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"White"	"2106-3"	19	210581	Unreliable
+	"2008"	"2008"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	20	410152	4.9
+	"2008"	"2008"	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	21	1447725	1.5
+	"2008"	"2008"	"Texas"	"48"	"Brazoria County, TX"	"48039"	"White"	"2106-3"	15	245692	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"Collin County, TX"	"48085"	"White"	"2106-3"	14	587779	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	12	1633706	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"Denton County, TX"	"48121"	"White"	"2106-3"	12	527003	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"El Paso County, TX"	"48141"	"White"	"2106-3"	18	724785	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"Galveston County, TX"	"48167"	"White"	"2106-3"	16	234310	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	114	2859633	4.0
+	"2008"	"2008"	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	38	395787	9.6
+	"2008"	"2008"	"Texas"	"48"	"Nueces County, TX"	"48355"	"White"	"2106-3"	13	309271	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	14	1372825	Unreliable
+	"2008"	"2008"	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	16	812929	Unreliable
+	"2008"	"2008"	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	35	280463	12.5
+	"2008"	"2008"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	113	913275	12.4
+	"2008"	"2008"	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	30	466938	6.4
+	"2008"	"2008"	"Utah"	"49"	"Weber County, UT"	"49057"	"White"	"2106-3"	31	212037	14.6
+	"2008"	"2008"	"Virginia"	"51"	"Chesterfield County, VA"	"51041"	"White"	"2106-3"	19	227443	Unreliable
+	"2008"	"2008"	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	20	743583	2.7
+	"2008"	"2008"	"Virginia"	"51"	"Henrico County, VA"	"51087"	"White"	"2106-3"	12	189906	Unreliable
+	"2008"	"2008"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"White"	"2106-3"	20	310347	6.4
+	"2008"	"2008"	"Washington"	"53"	"Clallam County, WA"	"53009"	"White"	"2106-3"	10	64281	Unreliable
+	"2008"	"2008"	"Washington"	"53"	"Clark County, WA"	"53011"	"White"	"2106-3"	27	376722	7.2
+	"2008"	"2008"	"Washington"	"53"	"Cowlitz County, WA"	"53015"	"White"	"2106-3"	10	96345	Unreliable
+	"2008"	"2008"	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	63	1415602	4.5
+	"2008"	"2008"	"Washington"	"53"	"Kitsap County, WA"	"53035"	"White"	"2106-3"	11	215500	Unreliable
+	"2008"	"2008"	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	34	634832	5.4
+	"2008"	"2008"	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	64	589942	10.8
+	"2008"	"2008"	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	84	428578	19.6
+	"2008"	"2008"	"Washington"	"53"	"Thurston County, WA"	"53067"	"White"	"2106-3"	14	214201	Unreliable
+	"2008"	"2008"	"Washington"	"53"	"Whatcom County, WA"	"53073"	"White"	"2106-3"	12	178405	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	"White"	"2106-3"	10	92364	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Cabell County, WV"	"54011"	"White"	"2106-3"	19	88699	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Fayette County, WV"	"54019"	"White"	"2106-3"	10	43535	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"White"	"2106-3"	31	174672	17.7
+	"2008"	"2008"	"West Virginia"	"54"	"McDowell County, WV"	"54047"	"White"	"2106-3"	18	20104	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Mercer County, WV"	"54055"	"White"	"2106-3"	17	57387	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Mingo County, WV"	"54059"	"White"	"2106-3"	16	26205	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	"White"	"2106-3"	12	70614	Unreliable
+	"2008"	"2008"	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	"White"	"2106-3"	16	23720	Unreliable
+	"2008"	"2008"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	17	424258	Unreliable
+	"2008"	"2008"	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"White"	"2106-3"	15	148436	Unreliable
+	"2008"	"2008"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	18	261728	Unreliable
+	"2008"	"2008"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	57	629278	9.1
+	"2008"	"2008"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"White"	"2106-3"	15	369086	Unreliable
+	"2009"	"2009"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"Black or African American"	"2054-5"	10	279530	Unreliable
+	"2009"	"2009"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	57	366282	15.6
+	"2009"	"2009"	"Alabama"	"01"	"Mobile County, AL"	"01097"	"White"	"2106-3"	11	254734	Unreliable
+	"2009"	"2009"	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	"White"	"2106-3"	27	206760	13.1
+	"2009"	"2009"	"Alaska"	"02"	"Matanuska-Susitna Borough, AK"	"02170"	"White"	"2106-3"	10	77592	Unreliable
+	"2009"	"2009"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	10	223359	Unreliable
+	"2009"	"2009"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	189	3312950	5.7
+	"2009"	"2009"	"Arizona"	"04"	"Mohave County, AZ"	"04015"	"White"	"2106-3"	27	188001	14.4
+	"2009"	"2009"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	54	856476	6.3
+	"2009"	"2009"	"Arizona"	"04"	"Pinal County, AZ"	"04021"	"White"	"2106-3"	11	295974	Unreliable
+	"2009"	"2009"	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"White"	"2106-3"	26	201993	12.9
+	"2009"	"2009"	"Arkansas"	"05"	"Benton County, AR"	"05007"	"White"	"2106-3"	11	201254	Unreliable
+	"2009"	"2009"	"Arkansas"	"05"	"Crawford County, AR"	"05033"	"White"	"2106-3"	10	57972	Unreliable
+	"2009"	"2009"	"Arkansas"	"05"	"Garland County, AR"	"05051"	"White"	"2106-3"	10	86122	Unreliable
+	"2009"	"2009"	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"White"	"2106-3"	12	233764	Unreliable
+	"2009"	"2009"	"Arkansas"	"05"	"Sebastian County, AR"	"05131"	"White"	"2106-3"	11	107406	Unreliable
+	"2009"	"2009"	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	12	833105	Unreliable
+	"2009"	"2009"	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	20	743578	2.7
+	"2009"	"2009"	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	40	732436	5.5
+	"2009"	"2009"	"California"	"06"	"Humboldt County, CA"	"06023"	"White"	"2106-3"	21	117658	17.8
+	"2009"	"2009"	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	17	704945	Unreliable
+	"2009"	"2009"	"California"	"06"	"Lake County, CA"	"06033"	"White"	"2106-3"	12	58497	Unreliable
+	"2009"	"2009"	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	32	969387	3.3
+	"2009"	"2009"	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	200	7176904	2.8
+	"2009"	"2009"	"California"	"06"	"Marin County, CA"	"06041"	"White"	"2106-3"	19	222179	Unreliable
+	"2009"	"2009"	"California"	"06"	"Monterey County, CA"	"06053"	"White"	"2106-3"	12	347060	Unreliable
+	"2009"	"2009"	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	204	2311740	8.8
+	"2009"	"2009"	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	56	1784502	3.1
+	"2009"	"2009"	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	52	968078	5.4
+	"2009"	"2009"	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	52	1605282	3.2
+	"2009"	"2009"	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	184	2433767	7.6
+	"2009"	"2009"	"California"	"06"	"San Francisco County, CA"	"06075"	"Black or African American"	"2054-5"	11	56712	Unreliable
+	"2009"	"2009"	"California"	"06"	"San Francisco County, CA"	"06075"	"White"	"2106-3"	44	452775	9.7
+	"2009"	"2009"	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	40	484053	8.3
+	"2009"	"2009"	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	23	1079054	2.1
+	"2009"	"2009"	"California"	"06"	"Santa Cruz County, CA"	"06087"	"White"	"2106-3"	14	235580	Unreliable
+	"2009"	"2009"	"California"	"06"	"Shasta County, CA"	"06089"	"White"	"2106-3"	19	162776	Unreliable
+	"2009"	"2009"	"California"	"06"	"Solano County, CA"	"06095"	"White"	"2106-3"	11	259602	Unreliable
+	"2009"	"2009"	"California"	"06"	"Sonoma County, CA"	"06097"	"White"	"2106-3"	25	432734	5.8
+	"2009"	"2009"	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	26	444814	5.8
+	"2009"	"2009"	"California"	"06"	"Tulare County, CA"	"06107"	"White"	"2106-3"	13	393981	Unreliable
+	"2009"	"2009"	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	42	712358	5.9
+	"2009"	"2009"	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	17	389266	Unreliable
+	"2009"	"2009"	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	10	457627	Unreliable
+	"2009"	"2009"	"Colorado"	"08"	"Boulder County, CO"	"08013"	"White"	"2106-3"	14	273158	Unreliable
+	"2009"	"2009"	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	48	482574	9.9
+	"2009"	"2009"	"Colorado"	"08"	"El Paso County, CO"	"08041"	"White"	"2106-3"	15	528377	Unreliable
+	"2009"	"2009"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	16	500199	Unreliable
+	"2009"	"2009"	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	13	282704	Unreliable
+	"2009"	"2009"	"Colorado"	"08"	"Pueblo County, CO"	"08101"	"White"	"2106-3"	16	146541	Unreliable
+	"2009"	"2009"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	17	750761	Unreliable
+	"2009"	"2009"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	11	712044	Unreliable
+	"2009"	"2009"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	20	699584	2.9
+	"2009"	"2009"	"Delaware"	"10"	"Kent County, DE"	"10001"	"White"	"2106-3"	14	114080	Unreliable
+	"2009"	"2009"	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	42	375884	11.2
+	"2009"	"2009"	"Delaware"	"10"	"Sussex County, DE"	"10005"	"White"	"2106-3"	16	162641	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"Bay County, FL"	"12005"	"White"	"2106-3"	13	142675	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	24	466749	5.1
+	"2009"	"2009"	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	79	1180063	6.7
+	"2009"	"2009"	"Florida"	"12"	"Citrus County, FL"	"12017"	"White"	"2106-3"	16	134122	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"Clay County, FL"	"12019"	"White"	"2106-3"	13	161404	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"Collier County, FL"	"12021"	"White"	"2106-3"	26	290054	9.0
+	"2009"	"2009"	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	41	552046	7.4
+	"2009"	"2009"	"Florida"	"12"	"Hernando County, FL"	"12053"	"White"	"2106-3"	35	159210	22.0
+	"2009"	"2009"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	172	944174	18.2
+	"2009"	"2009"	"Florida"	"12"	"Indian River County, FL"	"12061"	"White"	"2106-3"	13	121555	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"Lake County, FL"	"12069"	"White"	"2106-3"	20	255972	7.8
+	"2009"	"2009"	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	58	544158	10.7
+	"2009"	"2009"	"Florida"	"12"	"Manatee County, FL"	"12081"	"White"	"2106-3"	36	282594	12.7
+	"2009"	"2009"	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	43	281068	15.3
+	"2009"	"2009"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	57	1921359	3.0
+	"2009"	"2009"	"Florida"	"12"	"Okaloosa County, FL"	"12091"	"White"	"2106-3"	11	154308	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	79	807156	9.8
+	"2009"	"2009"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	62	1027474	6.0
+	"2009"	"2009"	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	37	426385	8.7
+	"2009"	"2009"	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	73	780860	9.3
+	"2009"	"2009"	"Florida"	"12"	"Polk County, FL"	"12105"	"White"	"2106-3"	14	489686	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"St. Johns County, FL"	"12109"	"White"	"2106-3"	13	169947	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"White"	"2106-3"	12	212564	Unreliable
+	"2009"	"2009"	"Florida"	"12"	"Sarasota County, FL"	"12115"	"White"	"2106-3"	51	351362	14.5
+	"2009"	"2009"	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	56	349708	16.0
+	"2009"	"2009"	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	86	428575	20.1
+	"2009"	"2009"	"Georgia"	"13"	"Cherokee County, GA"	"13057"	"White"	"2106-3"	10	193435	Unreliable
+	"2009"	"2009"	"Georgia"	"13"	"Cobb County, GA"	"13067"	"White"	"2106-3"	14	469658	Unreliable
+	"2009"	"2009"	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"White"	"2106-3"	12	260742	Unreliable
+	"2009"	"2009"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"White"	"2106-3"	21	438953	4.8
+	"2009"	"2009"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	21	503830	4.2
+	"2009"	"2009"	"Georgia"	"13"	"Henry County, GA"	"13151"	"White"	"2106-3"	11	117750	Unreliable
+	"2009"	"2009"	"Hawaii"	"15"	"Hawaii County, HI"	"15001"	"White"	"2106-3"	12	75139	Unreliable
+	"2009"	"2009"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"White"	"2106-3"	15	240758	Unreliable
+	"2009"	"2009"	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	20	366841	5.5
+	"2009"	"2009"	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	29	3454522	0.8
+	"2009"	"2009"	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	10	765695	Unreliable
+	"2009"	"2009"	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	23	593196	3.9
+	"2009"	"2009"	"Illinois"	"17"	"Madison County, IL"	"17119"	"White"	"2106-3"	13	242595	Unreliable
+	"2009"	"2009"	"Illinois"	"17"	"Will County, IL"	"17197"	"White"	"2106-3"	16	560016	Unreliable
+	"2009"	"2009"	"Indiana"	"18"	"Delaware County, IN"	"18035"	"White"	"2106-3"	12	106666	Unreliable
+	"2009"	"2009"	"Indiana"	"18"	"Madison County, IN"	"18095"	"White"	"2106-3"	12	118574	Unreliable
+	"2009"	"2009"	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	34	620187	5.5
+	"2009"	"2009"	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	22	158188	13.9
+	"2009"	"2009"	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	25	378658	6.6
+	"2009"	"2009"	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	19	485778	Unreliable
+	"2009"	"2009"	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	15	411955	Unreliable
+	"2009"	"2009"	"Kansas"	"20"	"Shawnee County, KS"	"20177"	"White"	"2106-3"	12	152782	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Bell County, KY"	"21013"	"White"	"2106-3"	11	27760	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Boyd County, KY"	"21019"	"White"	"2106-3"	10	47418	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Clark County, KY"	"21049"	"White"	"2106-3"	10	33486	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"White"	"2106-3"	21	235672	8.9
+	"2009"	"2009"	"Kentucky"	"21"	"Floyd County, KY"	"21071"	"White"	"2106-3"	20	39167	51.1
+	"2009"	"2009"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"White"	"2106-3"	17	556720	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Johnson County, KY"	"21115"	"White"	"2106-3"	11	23004	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Kenton County, KY"	"21117"	"White"	"2106-3"	12	148789	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Martin County, KY"	"21159"	"White"	"2106-3"	11	12063	Unreliable
+	"2009"	"2009"	"Kentucky"	"21"	"Pike County, KY"	"21195"	"White"	"2106-3"	12	64425	Unreliable
+	"2009"	"2009"	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	12	293676	Unreliable
+	"2009"	"2009"	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	17	198834	Unreliable
+	"2009"	"2009"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"White"	"2106-3"	21	266400	7.9
+	"2009"	"2009"	"Maine"	"23"	"Penobscot County, ME"	"23019"	"White"	"2106-3"	11	148538	Unreliable
+	"2009"	"2009"	"Maine"	"23"	"York County, ME"	"23031"	"White"	"2106-3"	15	192585	Unreliable
+	"2009"	"2009"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	18	421779	Unreliable
+	"2009"	"2009"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	38	541372	7.0
+	"2009"	"2009"	"Maryland"	"24"	"Carroll County, MD"	"24013"	"White"	"2106-3"	10	157946	Unreliable
+	"2009"	"2009"	"Maryland"	"24"	"Harford County, MD"	"24025"	"White"	"2106-3"	10	203652	Unreliable
+	"2009"	"2009"	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	13	630674	Unreliable
+	"2009"	"2009"	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"White"	"2106-3"	11	227738	Unreliable
+	"2009"	"2009"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	29	406046	7.1
+	"2009"	"2009"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"White"	"2106-3"	13	195044	Unreliable
+	"2009"	"2009"	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	"White"	"2106-3"	10	205984	Unreliable
+	"2009"	"2009"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"White"	"2106-3"	29	506913	5.7
+	"2009"	"2009"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	31	662189	4.7
+	"2009"	"2009"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	21	396752	5.3
+	"2009"	"2009"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	53	1265854	4.2
+	"2009"	"2009"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"White"	"2106-3"	26	564575	4.6
+	"2009"	"2009"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"White"	"2106-3"	20	437188	4.6
+	"2009"	"2009"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	27	461690	5.8
+	"2009"	"2009"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	20	718082	2.8
+	"2009"	"2009"	"Michigan"	"26"	"Genesee County, MI"	"26049"	"White"	"2106-3"	22	327429	6.7
+	"2009"	"2009"	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	15	513635	Unreliable
+	"2009"	"2009"	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	41	735079	5.6
+	"2009"	"2009"	"Michigan"	"26"	"Muskegon County, MI"	"26121"	"White"	"2106-3"	10	142848	Unreliable
+	"2009"	"2009"	"Michigan"	"26"	"Oakland County, MI"	"26125"	"White"	"2106-3"	10	955771	Unreliable
+	"2009"	"2009"	"Michigan"	"26"	"Ottawa County, MI"	"26139"	"White"	"2106-3"	10	248613	Unreliable
+	"2009"	"2009"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"White"	"2106-3"	11	265339	Unreliable
+	"2009"	"2009"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	80	767683	10.4
+	"2009"	"2009"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	117	1006106	11.6
+	"2009"	"2009"	"Minnesota"	"27"	"Dakota County, MN"	"27037"	"White"	"2106-3"	14	353569	Unreliable
+	"2009"	"2009"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	23	907097	2.5
+	"2009"	"2009"	"Minnesota"	"27"	"St. Louis County, MN"	"27137"	"White"	"2106-3"	10	189395	Unreliable
+	"2009"	"2009"	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	16	256682	Unreliable
+	"2009"	"2009"	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	34	482148	7.1
+	"2009"	"2009"	"Missouri"	"29"	"Jefferson County, MO"	"29099"	"White"	"2106-3"	26	212913	12.2
+	"2009"	"2009"	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"White"	"2106-3"	17	330873	Unreliable
+	"2009"	"2009"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	50	720568	6.9
+	"2009"	"2009"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	13	162008	Unreliable
+	"2009"	"2009"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"White"	"2106-3"	22	145053	15.2
+	"2009"	"2009"	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"White"	"2106-3"	17	425045	Unreliable
+	"2009"	"2009"	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	16	232607	Unreliable
+	"2009"	"2009"	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	212	1479268	14.3
+	"2009"	"2009"	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	29	367765	7.9
+	"2009"	"2009"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"White"	"2106-3"	16	373810	Unreliable
+	"2009"	"2009"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"White"	"2106-3"	14	285987	Unreliable
+	"2009"	"2009"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	40	570902	7.0
+	"2009"	"2009"	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	17	627273	Unreliable
+	"2009"	"2009"	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	33	638310	5.2
+	"2009"	"2009"	"New York"	"36"	"Dutchess County, NY"	"36027"	"White"	"2106-3"	10	251148	Unreliable
+	"2009"	"2009"	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	38	756732	5.0
+	"2009"	"2009"	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	11	932703	Unreliable
+	"2009"	"2009"	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	52	1251822	4.2
+	"2009"	"2009"	"New York"	"36"	"Monroe County, NY"	"36055"	"White"	"2106-3"	17	591527	Unreliable
+	"2009"	"2009"	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	46	1057589	4.3
+	"2009"	"2009"	"New York"	"36"	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	10	309408	Unreliable
+	"2009"	"2009"	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	24	1059884	2.3
+	"2009"	"2009"	"New York"	"36"	"Onondaga County, NY"	"36067"	"White"	"2106-3"	11	388892	Unreliable
+	"2009"	"2009"	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	32	1151842	2.8
+	"2009"	"2009"	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	35	370891	9.4
+	"2009"	"2009"	"New York"	"36"	"Rockland County, NY"	"36087"	"White"	"2106-3"	10	245899	Unreliable
+	"2009"	"2009"	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	78	1296569	6.0
+	"2009"	"2009"	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	21	726692	2.9
+	"2009"	"2009"	"North Carolina"	"37"	"Alexander County, NC"	"37003"	"White"	"2106-3"	11	34255	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Brunswick County, NC"	"37019"	"White"	"2106-3"	12	91307	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Cabarrus County, NC"	"37025"	"White"	"2106-3"	11	142849	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Catawba County, NC"	"37035"	"White"	"2106-3"	13	134197	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"White"	"2106-3"	11	177173	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"White"	"2106-3"	15	241758	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"White"	"2106-3"	21	169406	12.4
+	"2009"	"2009"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	22	297282	7.4
+	"2009"	"2009"	"North Carolina"	"37"	"Henderson County, NC"	"37089"	"White"	"2106-3"	11	100118	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Iredell County, NC"	"37097"	"White"	"2106-3"	14	134473	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Lincoln County, NC"	"37109"	"White"	"2106-3"	11	72101	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	12	565824	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Randolph County, NC"	"37151"	"White"	"2106-3"	13	129225	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Rowan County, NC"	"37159"	"White"	"2106-3"	13	112726	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	17	633300	Unreliable
+	"2009"	"2009"	"North Carolina"	"37"	"Wilkes County, NC"	"37193"	"White"	"2106-3"	20	65549	30.5
+	"2009"	"2009"	"Ohio"	"39"	"Butler County, OH"	"39017"	"White"	"2106-3"	36	326124	11.0
+	"2009"	"2009"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"Black or African American"	"2054-5"	10	394163	Unreliable
+	"2009"	"2009"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	46	850269	5.4
+	"2009"	"2009"	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	53	841048	6.3
+	"2009"	"2009"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	24	567885	4.2
+	"2009"	"2009"	"Ohio"	"39"	"Lucas County, OH"	"39095"	"White"	"2106-3"	10	342533	Unreliable
+	"2009"	"2009"	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	13	405545	Unreliable
+	"2009"	"2009"	"Ohio"	"39"	"Ross County, OH"	"39141"	"White"	"2106-3"	12	71716	Unreliable
+	"2009"	"2009"	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	15	445303	Unreliable
+	"2009"	"2009"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"White"	"2106-3"	19	214317	Unreliable
+	"2009"	"2009"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	48	531907	9.0
+	"2009"	"2009"	"Oklahoma"	"40"	"Pottawatomie County, OK"	"40125"	"White"	"2106-3"	14	55728	Unreliable
+	"2009"	"2009"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	60	465389	12.9
+	"2009"	"2009"	"Oklahoma"	"40"	"Wagoner County, OK"	"40145"	"White"	"2106-3"	10	59223	Unreliable
+	"2009"	"2009"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"White"	"2106-3"	28	348003	8.0
+	"2009"	"2009"	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	47	328587	14.3
+	"2009"	"2009"	"Oregon"	"41"	"Linn County, OR"	"41043"	"White"	"2106-3"	11	111196	Unreliable
+	"2009"	"2009"	"Oregon"	"41"	"Marion County, OR"	"41047"	"White"	"2106-3"	14	289173	Unreliable
+	"2009"	"2009"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	62	607714	10.2
+	"2009"	"2009"	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	21	451617	4.6
+	"2009"	"2009"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Black or African American"	"2054-5"	11	169921	Unreliable
+	"2009"	"2009"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	72	1014311	7.1
+	"2009"	"2009"	"Pennsylvania"	"42"	"Beaver County, PA"	"42007"	"White"	"2106-3"	11	157608	Unreliable
+	"2009"	"2009"	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"White"	"2106-3"	11	373077	Unreliable
+	"2009"	"2009"	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"White"	"2106-3"	20	203140	9.8
+	"2009"	"2009"	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"White"	"2106-3"	42	666972	6.3
+	"2009"	"2009"	"Pennsylvania"	"42"	"Northampton County, PA"	"42095"	"White"	"2106-3"	10	270024	Unreliable
+	"2009"	"2009"	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"White"	"2106-3"	12	701281	Unreliable
+	"2009"	"2009"	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	"White"	"2106-3"	26	351901	7.4
+	"2009"	"2009"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	15	518656	Unreliable
+	"2009"	"2009"	"South Carolina"	"45"	"Aiken County, SC"	"45003"	"White"	"2106-3"	10	115671	Unreliable
+	"2009"	"2009"	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"White"	"2106-3"	10	232160	Unreliable
+	"2009"	"2009"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	30	350764	8.6
+	"2009"	"2009"	"South Carolina"	"45"	"Pickens County, SC"	"45077"	"White"	"2106-3"	13	108522	Unreliable
+	"2009"	"2009"	"South Carolina"	"45"	"Spartanburg County, SC"	"45083"	"White"	"2106-3"	11	215777	Unreliable
+	"2009"	"2009"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	41	417809	9.8
+	"2009"	"2009"	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	43	378524	11.4
+	"2009"	"2009"	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"White"	"2106-3"	13	214700	Unreliable
+	"2009"	"2009"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	37	407585	9.1
+	"2009"	"2009"	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	36	1473562	2.4
+	"2009"	"2009"	"Texas"	"48"	"Brazoria County, TX"	"48039"	"White"	"2106-3"	14	250137	Unreliable
+	"2009"	"2009"	"Texas"	"48"	"Collin County, TX"	"48085"	"White"	"2106-3"	18	601687	Unreliable
+	"2009"	"2009"	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	24	1648272	1.5
+	"2009"	"2009"	"Texas"	"48"	"El Paso County, TX"	"48141"	"White"	"2106-3"	14	739528	Unreliable
+	"2009"	"2009"	"Texas"	"48"	"Galveston County, TX"	"48167"	"White"	"2106-3"	13	233630	Unreliable
+	"2009"	"2009"	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	21	797121	2.6
+	"2009"	"2009"	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	173	2920175	5.9
+	"2009"	"2009"	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	37	409678	9.0
+	"2009"	"2009"	"Texas"	"48"	"Nueces County, TX"	"48355"	"White"	"2106-3"	16	313374	Unreliable
+	"2009"	"2009"	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	30	1396420	2.1
+	"2009"	"2009"	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	24	832758	2.9
+	"2009"	"2009"	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	29	286052	10.1
+	"2009"	"2009"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	122	926305	13.2
+	"2009"	"2009"	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	47	482711	9.7
+	"2009"	"2009"	"Utah"	"49"	"Washington County, UT"	"49053"	"White"	"2106-3"	11	130616	Unreliable
+	"2009"	"2009"	"Utah"	"49"	"Weber County, UT"	"49057"	"White"	"2106-3"	31	215768	14.4
+	"2009"	"2009"	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	14	753345	Unreliable
+	"2009"	"2009"	"Virginia"	"51"	"Henrico County, VA"	"51087"	"White"	"2106-3"	12	190253	Unreliable
+	"2009"	"2009"	"Virginia"	"51"	"Prince William County, VA"	"51153"	"White"	"2106-3"	15	265476	Unreliable
+	"2009"	"2009"	"Virginia"	"51"	"Tazewell County, VA"	"51185"	"White"	"2106-3"	10	43268	Unreliable
+	"2009"	"2009"	"Virginia"	"51"	"Chesapeake city, VA"	"51550"	"White"	"2106-3"	10	143707	Unreliable
+	"2009"	"2009"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"White"	"2106-3"	14	309920	Unreliable
+	"2009"	"2009"	"Washington"	"53"	"Benton County, WA"	"53005"	"White"	"2106-3"	10	159962	Unreliable
+	"2009"	"2009"	"Washington"	"53"	"Clark County, WA"	"53011"	"White"	"2106-3"	31	381210	8.1
+	"2009"	"2009"	"Washington"	"53"	"King County, WA"	"53033"	"Black or African American"	"2054-5"	10	140055	Unreliable
+	"2009"	"2009"	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	80	1433519	5.6
+	"2009"	"2009"	"Washington"	"53"	"Kitsap County, WA"	"53035"	"White"	"2106-3"	15	216859	Unreliable
+	"2009"	"2009"	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	40	640956	6.2
+	"2009"	"2009"	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	49	596962	8.2
+	"2009"	"2009"	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	53	433384	12.2
+	"2009"	"2009"	"Washington"	"53"	"Thurston County, WA"	"53067"	"White"	"2106-3"	13	218444	Unreliable
+	"2009"	"2009"	"Washington"	"53"	"Whatcom County, WA"	"53073"	"White"	"2106-3"	13	180863	Unreliable
+	"2009"	"2009"	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	"White"	"2106-3"	11	93152	Unreliable
+	"2009"	"2009"	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"White"	"2106-3"	11	175026	Unreliable
+	"2009"	"2009"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	12	429221	Unreliable
+	"2009"	"2009"	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"White"	"2106-3"	16	148724	Unreliable
+	"2009"	"2009"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	17	264643	Unreliable
+	"2009"	"2009"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	48	632784	7.6
+	"2009"	"2009"	"Wisconsin"	"55"	"Walworth County, WI"	"55127"	"White"	"2106-3"	11	99256	Unreliable
+	"2009"	"2009"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"White"	"2106-3"	18	370426	Unreliable
+	"2010"	"2010"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	24	364652	6.6
+	"2010"	"2010"	"Alabama"	"01"	"Shelby County, AL"	"01117"	"White"	"2106-3"	10	168654	Unreliable
+	"2010"	"2010"	"Alabama"	"01"	"Walker County, AL"	"01127"	"White"	"2106-3"	11	62277	Unreliable
+	"2010"	"2010"	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	"White"	"2106-3"	15	208823	Unreliable
+	"2010"	"2010"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	10	228578	Unreliable
+	"2010"	"2010"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	189	3314851	5.7
+	"2010"	"2010"	"Arizona"	"04"	"Mohave County, AZ"	"04015"	"White"	"2106-3"	29	188409	15.4
+	"2010"	"2010"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	65	858838	7.6
+	"2010"	"2010"	"Arizona"	"04"	"Pinal County, AZ"	"04021"	"White"	"2106-3"	16	317811	Unreliable
+	"2010"	"2010"	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"White"	"2106-3"	19	201660	Unreliable
+	"2010"	"2010"	"Arkansas"	"05"	"Garland County, AR"	"05051"	"White"	"2106-3"	10	86170	Unreliable
+	"2010"	"2010"	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"White"	"2106-3"	24	233873	10.3
+	"2010"	"2010"	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	22	833373	2.6
+	"2010"	"2010"	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	11	746954	Unreliable
+	"2010"	"2010"	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	46	736431	6.2
+	"2010"	"2010"	"California"	"06"	"Humboldt County, CA"	"06023"	"White"	"2106-3"	14	118256	Unreliable
+	"2010"	"2010"	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	15	710668	Unreliable
+	"2010"	"2010"	"California"	"06"	"Lake County, CA"	"06033"	"White"	"2106-3"	14	58627	Unreliable
+	"2010"	"2010"	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	22	970730	2.3
+	"2010"	"2010"	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	181	7187469	2.5
+	"2010"	"2010"	"California"	"06"	"Marin County, CA"	"06041"	"White"	"2106-3"	16	223058	Unreliable
+	"2010"	"2010"	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	171	2318308	7.4
+	"2010"	"2010"	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	48	1813217	2.6
+	"2010"	"2010"	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	34	969084	3.5
+	"2010"	"2010"	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	41	1616334	2.5
+	"2010"	"2010"	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	159	2453341	6.5
+	"2010"	"2010"	"California"	"06"	"San Francisco County, CA"	"06075"	"Black or African American"	"2054-5"	18	56492	Unreliable
+	"2010"	"2010"	"California"	"06"	"San Francisco County, CA"	"06075"	"White"	"2106-3"	51	454823	11.2
+	"2010"	"2010"	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	43	486959	8.8
+	"2010"	"2010"	"California"	"06"	"San Luis Obispo County, CA"	"06079"	"White"	"2106-3"	11	246984	Unreliable
+	"2010"	"2010"	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	22	1082006	2.0
+	"2010"	"2010"	"California"	"06"	"Santa Cruz County, CA"	"06087"	"White"	"2106-3"	10	237134	Unreliable
+	"2010"	"2010"	"California"	"06"	"Shasta County, CA"	"06089"	"White"	"2106-3"	18	162495	Unreliable
+	"2010"	"2010"	"California"	"06"	"Solano County, CA"	"06095"	"White"	"2106-3"	11	260880	Unreliable
+	"2010"	"2010"	"California"	"06"	"Sonoma County, CA"	"06097"	"White"	"2106-3"	29	435787	6.7
+	"2010"	"2010"	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	13	446082	Unreliable
+	"2010"	"2010"	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	56	717773	7.8
+	"2010"	"2010"	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	18	393666	Unreliable
+	"2010"	"2010"	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	40	491162	8.1
+	"2010"	"2010"	"Colorado"	"08"	"El Paso County, CO"	"08041"	"White"	"2106-3"	10	538941	Unreliable
+	"2010"	"2010"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	23	502079	4.6
+	"2010"	"2010"	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	14	285195	Unreliable
+	"2010"	"2010"	"Colorado"	"08"	"Pueblo County, CO"	"08101"	"White"	"2106-3"	21	147344	14.3
+	"2010"	"2010"	"Colorado"	"08"	"Weld County, CO"	"08123"	"White"	"2106-3"	13	240176	Unreliable
+	"2010"	"2010"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	10	753387	Unreliable
+	"2010"	"2010"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	13	710681	Unreliable
+	"2010"	"2010"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	32	699512	4.6
+	"2010"	"2010"	"Delaware"	"10"	"Kent County, DE"	"10001"	"White"	"2106-3"	12	115027	Unreliable
+	"2010"	"2010"	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	47	375337	12.5
+	"2010"	"2010"	"Delaware"	"10"	"Sussex County, DE"	"10005"	"White"	"2106-3"	18	164580	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"Alachua County, FL"	"12001"	"White"	"2106-3"	11	179379	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"Bay County, FL"	"12005"	"White"	"2106-3"	16	143733	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	26	467184	5.6
+	"2010"	"2010"	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	110	1184162	9.3
+	"2010"	"2010"	"Florida"	"12"	"Citrus County, FL"	"12017"	"White"	"2106-3"	27	133911	20.2
+	"2010"	"2010"	"Florida"	"12"	"Collier County, FL"	"12021"	"White"	"2106-3"	31	292631	10.6
+	"2010"	"2010"	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	44	553225	8.0
+	"2010"	"2010"	"Florida"	"12"	"Hernando County, FL"	"12053"	"White"	"2106-3"	47	159874	29.4
+	"2010"	"2010"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	155	953408	16.3
+	"2010"	"2010"	"Florida"	"12"	"Lake County, FL"	"12069"	"White"	"2106-3"	28	256920	10.9
+	"2010"	"2010"	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	72	549089	13.1
+	"2010"	"2010"	"Florida"	"12"	"Manatee County, FL"	"12081"	"White"	"2106-3"	52	284270	18.3
+	"2010"	"2010"	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	49	281032	17.4
+	"2010"	"2010"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	40	1949400	2.1
+	"2010"	"2010"	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	91	816246	11.1
+	"2010"	"2010"	"Florida"	"12"	"Osceola County, FL"	"12097"	"White"	"2106-3"	16	221102	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	106	1034503	10.2
+	"2010"	"2010"	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	65	427504	15.2
+	"2010"	"2010"	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	92	780823	11.8
+	"2010"	"2010"	"Florida"	"12"	"Polk County, FL"	"12105"	"White"	"2106-3"	11	491608	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"Putnam County, FL"	"12107"	"White"	"2106-3"	16	60813	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"St. Johns County, FL"	"12109"	"White"	"2106-3"	16	173422	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"White"	"2106-3"	16	214663	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"Santa Rosa County, FL"	"12113"	"White"	"2106-3"	10	137094	Unreliable
+	"2010"	"2010"	"Florida"	"12"	"Sarasota County, FL"	"12115"	"White"	"2106-3"	50	352933	14.2
+	"2010"	"2010"	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	46	351359	13.1
+	"2010"	"2010"	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	85	427829	19.9
+	"2010"	"2010"	"Georgia"	"13"	"Bartow County, GA"	"13015"	"White"	"2106-3"	10	87698	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"Carroll County, GA"	"13045"	"White"	"2106-3"	10	87805	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"Chatham County, GA"	"13051"	"White"	"2106-3"	10	147111	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"Cherokee County, GA"	"13057"	"White"	"2106-3"	10	195283	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"Clayton County, GA"	"13063"	"White"	"2106-3"	12	65606	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"White"	"2106-3"	12	261201	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"White"	"2106-3"	29	442906	6.5
+	"2010"	"2010"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	19	503423	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"Hall County, GA"	"13139"	"White"	"2106-3"	10	159365	Unreliable
+	"2010"	"2010"	"Georgia"	"13"	"Paulding County, GA"	"13223"	"White"	"2106-3"	17	114395	Unreliable
+	"2010"	"2010"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"Asian or Pacific Islander"	"A-PI"	16	677753	Unreliable
+	"2010"	"2010"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"White"	"2106-3"	21	243391	8.6
+	"2010"	"2010"	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	17	370337	Unreliable
+	"2010"	"2010"	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"White"	"2106-3"	12	134045	Unreliable
+	"2010"	"2010"	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	10	1335140	Unreliable
+	"2010"	"2010"	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	34	3461540	1.0
+	"2010"	"2010"	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	20	767376	2.6
+	"2010"	"2010"	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	25	593635	4.2
+	"2010"	"2010"	"Illinois"	"17"	"Madison County, IL"	"17119"	"White"	"2106-3"	32	242573	13.2
+	"2010"	"2010"	"Indiana"	"18"	"Madison County, IN"	"18095"	"White"	"2106-3"	12	118428	Unreliable
+	"2010"	"2010"	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	29	620509	4.7
+	"2010"	"2010"	"Indiana"	"18"	"Porter County, IN"	"18127"	"White"	"2106-3"	14	155665	Unreliable
+	"2010"	"2010"	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	23	158454	14.5
+	"2010"	"2010"	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	18	381784	Unreliable
+	"2010"	"2010"	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	16	488533	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Bell County, KY"	"21013"	"White"	"2106-3"	17	27791	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Boone County, KY"	"21015"	"White"	"2106-3"	15	112110	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Boyd County, KY"	"21019"	"White"	"2106-3"	16	47563	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Carter County, KY"	"21043"	"White"	"2106-3"	11	27417	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Clay County, KY"	"21051"	"White"	"2106-3"	10	20692	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"White"	"2106-3"	38	237740	16.0
+	"2010"	"2010"	"Kentucky"	"21"	"Floyd County, KY"	"21071"	"White"	"2106-3"	29	38998	74.4
+	"2010"	"2010"	"Kentucky"	"21"	"Greenup County, KY"	"21089"	"White"	"2106-3"	12	36274	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Harlan County, KY"	"21095"	"White"	"2106-3"	10	28395	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"White"	"2106-3"	19	558343	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Johnson County, KY"	"21115"	"White"	"2106-3"	19	23143	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Kenton County, KY"	"21117"	"White"	"2106-3"	18	149027	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Letcher County, KY"	"21133"	"White"	"2106-3"	12	24335	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Pike County, KY"	"21195"	"White"	"2106-3"	29	64177	45.2
+	"2010"	"2010"	"Kentucky"	"21"	"Powell County, KY"	"21197"	"White"	"2106-3"	13	12469	Unreliable
+	"2010"	"2010"	"Kentucky"	"21"	"Whitley County, KY"	"21235"	"White"	"2106-3"	11	35110	Unreliable
+	"2010"	"2010"	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	21	200714	10.5
+	"2010"	"2010"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"White"	"2106-3"	10	266060	Unreliable
+	"2010"	"2010"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	19	424622	Unreliable
+	"2010"	"2010"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	42	539191	7.8
+	"2010"	"2010"	"Maryland"	"24"	"Cecil County, MD"	"24015"	"White"	"2106-3"	16	92433	Unreliable
+	"2010"	"2010"	"Maryland"	"24"	"Harford County, MD"	"24025"	"White"	"2106-3"	18	203928	Unreliable
+	"2010"	"2010"	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	11	635918	Unreliable
+	"2010"	"2010"	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"White"	"2106-3"	19	229087	Unreliable
+	"2010"	"2010"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	22	404965	5.4
+	"2010"	"2010"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"White"	"2106-3"	12	196040	Unreliable
+	"2010"	"2010"	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	"White"	"2106-3"	11	205766	Unreliable
+	"2010"	"2010"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"White"	"2106-3"	20	506926	3.9
+	"2010"	"2010"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	30	664648	4.5
+	"2010"	"2010"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	14	396281	Unreliable
+	"2010"	"2010"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	44	1267907	3.5
+	"2010"	"2010"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"White"	"2106-3"	25	565410	4.4
+	"2010"	"2010"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"White"	"2106-3"	15	438207	Unreliable
+	"2010"	"2010"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	24	465226	5.2
+	"2010"	"2010"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	32	719147	4.4
+	"2010"	"2010"	"Michigan"	"26"	"Eaton County, MI"	"26045"	"White"	"2106-3"	11	97298	Unreliable
+	"2010"	"2010"	"Michigan"	"26"	"Genesee County, MI"	"26049"	"Black or African American"	"2054-5"	12	92964	Unreliable
+	"2010"	"2010"	"Michigan"	"26"	"Genesee County, MI"	"26049"	"White"	"2106-3"	33	324918	10.2
+	"2010"	"2010"	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	13	513434	Unreliable
+	"2010"	"2010"	"Michigan"	"26"	"Livingston County, MI"	"26093"	"White"	"2106-3"	11	177165	Unreliable
+	"2010"	"2010"	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	52	731778	7.1
+	"2010"	"2010"	"Michigan"	"26"	"Muskegon County, MI"	"26121"	"White"	"2106-3"	10	142224	Unreliable
+	"2010"	"2010"	"Michigan"	"26"	"Oakland County, MI"	"26125"	"White"	"2106-3"	15	952176	Unreliable
+	"2010"	"2010"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"White"	"2106-3"	22	265769	8.3
+	"2010"	"2010"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	59	758315	7.8
+	"2010"	"2010"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	103	998351	10.3
+	"2010"	"2010"	"Minnesota"	"27"	"Anoka County, MN"	"27003"	"White"	"2106-3"	19	296693	Unreliable
+	"2010"	"2010"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	28	907902	3.1
+	"2010"	"2010"	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"White"	"2106-3"	16	377624	Unreliable
+	"2010"	"2010"	"Missouri"	"29"	"Clay County, MO"	"29047"	"White"	"2106-3"	16	201253	Unreliable
+	"2010"	"2010"	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	28	257327	10.9
+	"2010"	"2010"	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	44	483394	9.1
+	"2010"	"2010"	"Missouri"	"29"	"Jefferson County, MO"	"29099"	"White"	"2106-3"	35	213749	16.4
+	"2010"	"2010"	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"White"	"2106-3"	18	333550	Unreliable
+	"2010"	"2010"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"Black or African American"	"2054-5"	13	239998	Unreliable
+	"2010"	"2010"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	61	717650	8.5
+	"2010"	"2010"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	17	161233	Unreliable
+	"2010"	"2010"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"White"	"2106-3"	36	146087	24.6
+	"2010"	"2010"	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"White"	"2106-3"	20	428200	4.7
+	"2010"	"2010"	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	23	236749	9.7
+	"2010"	"2010"	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	221	1480208	14.9
+	"2010"	"2010"	"Nevada"	"32"	"Nye County, NV"	"32023"	"White"	"2106-3"	12	40812	Unreliable
+	"2010"	"2010"	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	48	370613	13.0
+	"2010"	"2010"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"White"	"2106-3"	20	374182	5.3
+	"2010"	"2010"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"White"	"2106-3"	13	286192	Unreliable
+	"2010"	"2010"	"New Hampshire"	"33"	"Strafford County, NH"	"33017"	"White"	"2106-3"	10	117520	Unreliable
+	"2010"	"2010"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"White"	"2106-3"	17	200329	Unreliable
+	"2010"	"2010"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Black or African American"	"2054-5"	10	341349	Unreliable
+	"2010"	"2010"	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"White"	"2106-3"	12	433364	Unreliable
+	"2010"	"2010"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"White"	"2106-3"	26	533440	4.9
+	"2010"	"2010"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"White"	"2106-3"	34	543359	6.3
+	"2010"	"2010"	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	"White"	"2106-3"	15	387416	Unreliable
+	"2010"	"2010"	"New Jersey"	"34"	"Union County, NJ"	"34039"	"White"	"2106-3"	13	377741	Unreliable
+	"2010"	"2010"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	45	575866	7.8
+	"2010"	"2010"	"New Mexico"	"35"	"Dona Ana County, NM"	"35013"	"White"	"2106-3"	12	196104	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	11	631538	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	32	639307	5.0
+	"2010"	"2010"	"New York"	"36"	"Dutchess County, NY"	"36027"	"White"	"2106-3"	23	251019	9.2
+	"2010"	"2010"	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	29	754644	3.8
+	"2010"	"2010"	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	11	935423	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	56	1257959	4.5
+	"2010"	"2010"	"New York"	"36"	"Monroe County, NY"	"36055"	"White"	"2106-3"	18	590442	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	42	1058121	4.0
+	"2010"	"2010"	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	23	1060723	2.2
+	"2010"	"2010"	"New York"	"36"	"Niagara County, NY"	"36063"	"White"	"2106-3"	11	195090	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Onondaga County, NY"	"36067"	"White"	"2106-3"	15	388876	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Orange County, NY"	"36071"	"White"	"2106-3"	16	314197	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	44	1149276	3.8
+	"2010"	"2010"	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	37	370950	10.0
+	"2010"	"2010"	"New York"	"36"	"Rockland County, NY"	"36087"	"White"	"2106-3"	12	247693	Unreliable
+	"2010"	"2010"	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	96	1299782	7.4
+	"2010"	"2010"	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	25	728062	3.4
+	"2010"	"2010"	"North Carolina"	"37"	"Brunswick County, NC"	"37019"	"White"	"2106-3"	13	92766	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	"White"	"2106-3"	10	217133	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Caldwell County, NC"	"37027"	"White"	"2106-3"	10	77529	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"White"	"2106-3"	16	177086	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"White"	"2106-3"	24	169177	14.2
+	"2010"	"2010"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	13	297803	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Henderson County, NC"	"37089"	"White"	"2106-3"	12	100974	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	26	568149	4.6
+	"2010"	"2010"	"North Carolina"	"37"	"New Hanover County, NC"	"37129"	"White"	"2106-3"	14	166860	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Randolph County, NC"	"37151"	"White"	"2106-3"	12	129603	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	15	642646	Unreliable
+	"2010"	"2010"	"North Carolina"	"37"	"Wilkes County, NC"	"37193"	"White"	"2106-3"	11	65561	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	"Butler County, OH"	"39017"	"White"	"2106-3"	29	326692	8.9
+	"2010"	"2010"	"Ohio"	"39"	"Clark County, OH"	"39023"	"White"	"2106-3"	11	122865	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	"Clermont County, OH"	"39025"	"White"	"2106-3"	21	191674	11.0
+	"2010"	"2010"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"Black or African American"	"2054-5"	11	394894	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	49	844059	5.8
+	"2010"	"2010"	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	93	844017	11.0
+	"2010"	"2010"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	50	566581	8.8
+	"2010"	"2010"	"Ohio"	"39"	"Lake County, OH"	"39085"	"White"	"2106-3"	18	218012	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	"Licking County, OH"	"39089"	"White"	"2106-3"	10	157619	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	"Lucas County, OH"	"39095"	"White"	"2106-3"	21	340825	6.2
+	"2010"	"2010"	"Ohio"	"39"	"Mahoning County, OH"	"39099"	"White"	"2106-3"	25	195773	12.8
+	"2010"	"2010"	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	16	404590	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	"Ross County, OH"	"39141"	"White"	"2106-3"	15	71837	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	"Stark County, OH"	"39151"	"White"	"2106-3"	23	338538	6.8
+	"2010"	"2010"	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	40	443998	9.0
+	"2010"	"2010"	"Ohio"	"39"	"Trumbull County, OH"	"39155"	"White"	"2106-3"	21	189589	11.1
+	"2010"	"2010"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"White"	"2106-3"	25	216904	11.5
+	"2010"	"2010"	"Oklahoma"	"40"	"Creek County, OK"	"40037"	"White"	"2106-3"	13	59263	Unreliable
+	"2010"	"2010"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	65	535469	12.1
+	"2010"	"2010"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	70	468357	14.9
+	"2010"	"2010"	"Oklahoma"	"40"	"Wagoner County, OK"	"40145"	"White"	"2106-3"	11	59853	Unreliable
+	"2010"	"2010"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"White"	"2106-3"	28	349230	8.0
+	"2010"	"2010"	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	22	328956	6.7
+	"2010"	"2010"	"Oregon"	"41"	"Marion County, OR"	"41047"	"White"	"2106-3"	17	290455	Unreliable
+	"2010"	"2010"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	69	612752	11.3
+	"2010"	"2010"	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	17	454413	Unreliable
+	"2010"	"2010"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Black or African American"	"2054-5"	11	170825	Unreliable
+	"2010"	"2010"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	88	1013578	8.7
+	"2010"	"2010"	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"White"	"2106-3"	10	373667	Unreliable
+	"2010"	"2010"	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"White"	"2106-3"	15	202962	Unreliable
+	"2010"	"2010"	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"White"	"2106-3"	49	668072	7.3
+	"2010"	"2010"	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"White"	"2106-3"	15	706762	Unreliable
+	"2010"	"2010"	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	"White"	"2106-3"	16	198028	Unreliable
+	"2010"	"2010"	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	"White"	"2106-3"	22	351524	6.3
+	"2010"	"2010"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	37	517406	7.2
+	"2010"	"2010"	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"White"	"2106-3"	16	235674	Unreliable
+	"2010"	"2010"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	31	353624	8.8
+	"2010"	"2010"	"South Carolina"	"45"	"Pickens County, SC"	"45077"	"White"	"2106-3"	14	108559	Unreliable
+	"2010"	"2010"	"South Carolina"	"45"	"Richland County, SC"	"45079"	"White"	"2106-3"	10	190419	Unreliable
+	"2010"	"2010"	"South Dakota"	"46"	"Minnehaha County, SD"	"46099"	"White"	"2106-3"	11	154015	Unreliable
+	"2010"	"2010"	"Tennessee"	"47"	"Anderson County, TN"	"47001"	"White"	"2106-3"	11	70689	Unreliable
+	"2010"	"2010"	"Tennessee"	"47"	"Blount County, TN"	"47009"	"White"	"2106-3"	13	117581	Unreliable
+	"2010"	"2010"	"Tennessee"	"47"	"Bradley County, TN"	"47011"	"White"	"2106-3"	12	92548	Unreliable
+	"2010"	"2010"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	46	420879	10.9
+	"2010"	"2010"	"Tennessee"	"47"	"Hamblen County, TN"	"47063"	"White"	"2106-3"	13	58362	Unreliable
+	"2010"	"2010"	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	16	257483	Unreliable
+	"2010"	"2010"	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	56	380423	14.7
+	"2010"	"2010"	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"White"	"2106-3"	15	217075	Unreliable
+	"2010"	"2010"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	30	407915	7.4
+	"2010"	"2010"	"Tennessee"	"47"	"Wilson County, TN"	"47189"	"White"	"2106-3"	11	104215	Unreliable
+	"2010"	"2010"	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	32	1494889	2.1
+	"2010"	"2010"	"Texas"	"48"	"Brazoria County, TX"	"48039"	"White"	"2106-3"	10	252136	Unreliable
+	"2010"	"2010"	"Texas"	"48"	"Collin County, TX"	"48085"	"White"	"2106-3"	19	610718	Unreliable
+	"2010"	"2010"	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	33	1657584	2.0
+	"2010"	"2010"	"Texas"	"48"	"Galveston County, TX"	"48167"	"White"	"2106-3"	19	236717	Unreliable
+	"2010"	"2010"	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	21	810903	2.6
+	"2010"	"2010"	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	169	2952600	5.7
+	"2010"	"2010"	"Texas"	"48"	"Jefferson County, TX"	"48245"	"White"	"2106-3"	10	152403	Unreliable
+	"2010"	"2010"	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	20	417974	4.8
+	"2010"	"2010"	"Texas"	"48"	"Nueces County, TX"	"48355"	"White"	"2106-3"	18	315007	Unreliable
+	"2010"	"2010"	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	14	1410418	Unreliable
+	"2010"	"2010"	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	23	846273	2.7
+	"2010"	"2010"	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	23	289966	7.9
+	"2010"	"2010"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	97	935767	10.4
+	"2010"	"2010"	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	45	493586	9.1
+	"2010"	"2010"	"Utah"	"49"	"Washington County, UT"	"49053"	"White"	"2106-3"	14	131557	Unreliable
+	"2010"	"2010"	"Utah"	"49"	"Weber County, UT"	"49057"	"White"	"2106-3"	27	218564	12.4
+	"2010"	"2010"	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	17	760554	Unreliable
+	"2010"	"2010"	"Virginia"	"51"	"Henrico County, VA"	"51087"	"White"	"2106-3"	11	190052	Unreliable
+	"2010"	"2010"	"Virginia"	"51"	"Wise County, VA"	"51195"	"White"	"2106-3"	12	38983	Unreliable
+	"2010"	"2010"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"White"	"2106-3"	11	311422	Unreliable
+	"2010"	"2010"	"Washington"	"53"	"Clark County, WA"	"53011"	"White"	"2106-3"	29	384225	7.5
+	"2010"	"2010"	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	70	1441614	4.9
+	"2010"	"2010"	"Washington"	"53"	"Kitsap County, WA"	"53035"	"White"	"2106-3"	17	218455	Unreliable
+	"2010"	"2010"	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	37	638313	5.8
+	"2010"	"2010"	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	37	600529	6.2
+	"2010"	"2010"	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	44	435508	10.1
+	"2010"	"2010"	"Washington"	"53"	"Whatcom County, WA"	"53073"	"White"	"2106-3"	12	181780	Unreliable
+	"2010"	"2010"	"Washington"	"53"	"Yakima County, WA"	"53077"	"White"	"2106-3"	13	219380	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	"White"	"2106-3"	16	94363	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Boone County, WV"	"54005"	"White"	"2106-3"	21	24405	86.0
+	"2010"	"2010"	"West Virginia"	"54"	"Cabell County, WV"	"54011"	"White"	"2106-3"	25	89596	27.9
+	"2010"	"2010"	"West Virginia"	"54"	"Fayette County, WV"	"54019"	"White"	"2106-3"	14	43508	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Harrison County, WV"	"54033"	"White"	"2106-3"	16	67186	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"White"	"2106-3"	34	174812	19.4
+	"2010"	"2010"	"West Virginia"	"54"	"Lincoln County, WV"	"54043"	"White"	"2106-3"	12	21633	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Logan County, WV"	"54045"	"White"	"2106-3"	18	35730	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"McDowell County, WV"	"54047"	"White"	"2106-3"	19	19858	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Mercer County, WV"	"54055"	"White"	"2106-3"	27	57654	46.8
+	"2010"	"2010"	"West Virginia"	"54"	"Mingo County, WV"	"54059"	"White"	"2106-3"	10	26217	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	"White"	"2106-3"	41	70915	57.8
+	"2010"	"2010"	"West Virginia"	"54"	"Wayne County, WV"	"54099"	"White"	"2106-3"	15	42161	Unreliable
+	"2010"	"2010"	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	"White"	"2106-3"	24	23568	101.8
+	"2010"	"2010"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	23	430790	5.3
+	"2010"	"2010"	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"White"	"2106-3"	16	149117	Unreliable
+	"2010"	"2010"	"Wisconsin"	"55"	"La Crosse County, WI"	"55063"	"White"	"2106-3"	10	106938	Unreliable
+	"2010"	"2010"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	15	267637	Unreliable
+	"2010"	"2010"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	66	633705	10.4
+	"2010"	"2010"	"Wisconsin"	"55"	"Rock County, WI"	"55105"	"White"	"2106-3"	10	148006	Unreliable
+	"2010"	"2010"	"Wisconsin"	"55"	"Walworth County, WI"	"55127"	"White"	"2106-3"	10	99365	Unreliable
+	"2010"	"2010"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"White"	"2106-3"	30	370956	8.1
+	"2011"	"2011"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	46	363872	12.6
+	"2011"	"2011"	"Alabama"	"01"	"Madison County, AL"	"01089"	"White"	"2106-3"	10	241640	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	"White"	"2106-3"	20	210576	9.5
+	"2011"	"2011"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	183	3361955	5.4
+	"2011"	"2011"	"Arizona"	"04"	"Mohave County, AZ"	"04015"	"White"	"2106-3"	36	189729	19.0
+	"2011"	"2011"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	73	865419	8.4
+	"2011"	"2011"	"Arizona"	"04"	"Pinal County, AZ"	"04021"	"White"	"2106-3"	19	324045	Unreliable
+	"2011"	"2011"	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"White"	"2106-3"	22	201954	10.9
+	"2011"	"2011"	"Arkansas"	"05"	"Benton County, AR"	"05007"	"White"	"2106-3"	10	209714	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"Crawford County, AR"	"05033"	"White"	"2106-3"	13	58057	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"White"	"2106-3"	17	235922	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"Sebastian County, AR"	"05131"	"White"	"2106-3"	10	108661	Unreliable
+	"2011"	"2011"	"California"	"06"	"Alameda County, CA"	"06001"	"Black or African American"	"2054-5"	12	214587	Unreliable
+	"2011"	"2011"	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	23	843255	2.7
+	"2011"	"2011"	"California"	"06"	"Butte County, CA"	"06007"	"White"	"2106-3"	15	196913	Unreliable
+	"2011"	"2011"	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	16	756261	Unreliable
+	"2011"	"2011"	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	43	746094	5.8
+	"2011"	"2011"	"California"	"06"	"Humboldt County, CA"	"06023"	"White"	"2106-3"	15	117810	Unreliable
+	"2011"	"2011"	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	12	720341	Unreliable
+	"2011"	"2011"	"California"	"06"	"Lake County, CA"	"06033"	"White"	"2106-3"	14	58183	Unreliable
+	"2011"	"2011"	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	19	971727	Unreliable
+	"2011"	"2011"	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	191	7236169	2.6
+	"2011"	"2011"	"California"	"06"	"Madera County, CA"	"06039"	"White"	"2106-3"	17	133799	Unreliable
+	"2011"	"2011"	"California"	"06"	"Merced County, CA"	"06047"	"White"	"2106-3"	10	217101	Unreliable
+	"2011"	"2011"	"California"	"06"	"Monterey County, CA"	"06053"	"White"	"2106-3"	13	355852	Unreliable
+	"2011"	"2011"	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	187	2341887	8.0
+	"2011"	"2011"	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	61	1850831	3.3
+	"2011"	"2011"	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	34	979221	3.5
+	"2011"	"2011"	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	42	1637915	2.6
+	"2011"	"2011"	"California"	"06"	"San Diego County, CA"	"06073"	"Black or African American"	"2054-5"	14	199303	Unreliable
+	"2011"	"2011"	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	205	2483062	8.3
+	"2011"	"2011"	"California"	"06"	"San Francisco County, CA"	"06075"	"Black or African American"	"2054-5"	10	56600	Unreliable
+	"2011"	"2011"	"California"	"06"	"San Francisco County, CA"	"06075"	"White"	"2106-3"	52	458041	11.4
+	"2011"	"2011"	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	42	495072	8.5
+	"2011"	"2011"	"California"	"06"	"San Luis Obispo County, CA"	"06079"	"White"	"2106-3"	16	247405	Unreliable
+	"2011"	"2011"	"California"	"06"	"San Mateo County, CA"	"06081"	"White"	"2106-3"	12	481473	Unreliable
+	"2011"	"2011"	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	35	1093387	3.2
+	"2011"	"2011"	"California"	"06"	"Santa Cruz County, CA"	"06087"	"White"	"2106-3"	17	238041	Unreliable
+	"2011"	"2011"	"California"	"06"	"Shasta County, CA"	"06089"	"White"	"2106-3"	13	162588	Unreliable
+	"2011"	"2011"	"California"	"06"	"Sonoma County, CA"	"06097"	"White"	"2106-3"	14	438997	Unreliable
+	"2011"	"2011"	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	10	448784	Unreliable
+	"2011"	"2011"	"California"	"06"	"Tulare County, CA"	"06107"	"White"	"2106-3"	14	403332	Unreliable
+	"2011"	"2011"	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	59	723221	8.2
+	"2011"	"2011"	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	35	401952	8.7
+	"2011"	"2011"	"Colorado"	"08"	"Boulder County, CO"	"08013"	"White"	"2106-3"	18	277225	Unreliable
+	"2011"	"2011"	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	49	509276	9.6
+	"2011"	"2011"	"Colorado"	"08"	"Douglas County, CO"	"08035"	"White"	"2106-3"	13	271986	Unreliable
+	"2011"	"2011"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	30	506003	5.9
+	"2011"	"2011"	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	24	289927	8.3
+	"2011"	"2011"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	20	709356	2.8
+	"2011"	"2011"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	36	697037	5.2
+	"2011"	"2011"	"Delaware"	"10"	"Kent County, DE"	"10001"	"White"	"2106-3"	16	116353	Unreliable
+	"2011"	"2011"	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	55	376716	14.6
+	"2011"	"2011"	"Delaware"	"10"	"Sussex County, DE"	"10005"	"White"	"2106-3"	23	167035	13.8
+	"2011"	"2011"	"Florida"	"12"	"Alachua County, FL"	"12001"	"White"	"2106-3"	11	180928	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	22	466342	4.7
+	"2011"	"2011"	"Florida"	"12"	"Broward County, FL"	"12011"	"Black or African American"	"2054-5"	10	498611	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	102	1203411	8.5
+	"2011"	"2011"	"Florida"	"12"	"Citrus County, FL"	"12017"	"White"	"2106-3"	23	132412	17.4
+	"2011"	"2011"	"Florida"	"12"	"Clay County, FL"	"12019"	"White"	"2106-3"	17	162899	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Collier County, FL"	"12021"	"White"	"2106-3"	36	298166	12.1
+	"2011"	"2011"	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	59	557556	10.6
+	"2011"	"2011"	"Florida"	"12"	"Hernando County, FL"	"12053"	"White"	"2106-3"	31	159410	19.4
+	"2011"	"2011"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	141	977620	14.4
+	"2011"	"2011"	"Florida"	"12"	"Lake County, FL"	"12069"	"White"	"2106-3"	31	259577	11.9
+	"2011"	"2011"	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	52	558741	9.3
+	"2011"	"2011"	"Florida"	"12"	"Manatee County, FL"	"12081"	"White"	"2106-3"	40	286952	13.9
+	"2011"	"2011"	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	32	281077	11.4
+	"2011"	"2011"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	49	1994015	2.5
+	"2011"	"2011"	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	91	832781	10.9
+	"2011"	"2011"	"Florida"	"12"	"Osceola County, FL"	"12097"	"White"	"2106-3"	27	226707	11.9
+	"2011"	"2011"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	69	1042987	6.6
+	"2011"	"2011"	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	50	426853	11.7
+	"2011"	"2011"	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	64	778670	8.2
+	"2011"	"2011"	"Florida"	"12"	"Polk County, FL"	"12105"	"White"	"2106-3"	14	496337	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Putnam County, FL"	"12107"	"White"	"2106-3"	11	60238	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"St. Johns County, FL"	"12109"	"White"	"2106-3"	16	177820	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"White"	"2106-3"	18	216461	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Sarasota County, FL"	"12115"	"White"	"2106-3"	48	354353	13.5
+	"2011"	"2011"	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	35	352178	9.9
+	"2011"	"2011"	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	55	426727	12.9
+	"2011"	"2011"	"Georgia"	"13"	"Bartow County, GA"	"13015"	"White"	"2106-3"	14	87419	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Carroll County, GA"	"13045"	"White"	"2106-3"	12	87938	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Chatham County, GA"	"13051"	"White"	"2106-3"	13	150977	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Clayton County, GA"	"13063"	"White"	"2106-3"	11	69423	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Cobb County, GA"	"13067"	"White"	"2106-3"	11	472845	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Forsyth County, GA"	"13117"	"White"	"2106-3"	13	161885	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	12	431006	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"White"	"2106-3"	30	456861	6.6
+	"2011"	"2011"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	19	512435	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Henry County, GA"	"13151"	"White"	"2106-3"	12	119599	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Paulding County, GA"	"13223"	"White"	"2106-3"	13	114866	Unreliable
+	"2011"	"2011"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"Asian or Pacific Islander"	"A-PI"	14	674176	Unreliable
+	"2011"	"2011"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"White"	"2106-3"	31	252198	12.3
+	"2011"	"2011"	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	19	377625	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	18	1327430	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	45	3484157	1.3
+	"2011"	"2011"	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	23	768954	3.0
+	"2011"	"2011"	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	21	594430	3.5
+	"2011"	"2011"	"Illinois"	"17"	"Madison County, IL"	"17119"	"White"	"2106-3"	21	241475	8.7
+	"2011"	"2011"	"Indiana"	"18"	"Delaware County, IN"	"18035"	"White"	"2106-3"	11	106422	Unreliable
+	"2011"	"2011"	"Indiana"	"18"	"Madison County, IN"	"18095"	"White"	"2106-3"	25	118097	21.2
+	"2011"	"2011"	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	19	627147	Unreliable
+	"2011"	"2011"	"Indiana"	"18"	"Porter County, IN"	"18127"	"White"	"2106-3"	12	156206	Unreliable
+	"2011"	"2011"	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	29	158965	18.2
+	"2011"	"2011"	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	37	387402	9.6
+	"2011"	"2011"	"Iowa"	"19"	"Scott County, IA"	"19163"	"White"	"2106-3"	10	148760	Unreliable
+	"2011"	"2011"	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	22	494640	4.4
+	"2011"	"2011"	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	15	416304	Unreliable
+	"2011"	"2011"	"Kentucky"	"21"	"Bell County, KY"	"21013"	"White"	"2106-3"	21	27771	75.6
+	"2011"	"2011"	"Kentucky"	"21"	"Campbell County, KY"	"21037"	"White"	"2106-3"	12	86984	Unreliable
+	"2011"	"2011"	"Kentucky"	"21"	"Clay County, KY"	"21051"	"White"	"2106-3"	27	20643	130.8
+	"2011"	"2011"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"White"	"2106-3"	39	242333	16.1
+	"2011"	"2011"	"Kentucky"	"21"	"Floyd County, KY"	"21071"	"White"	"2106-3"	29	38695	74.9
+	"2011"	"2011"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"White"	"2106-3"	49	562872	8.7
+	"2011"	"2011"	"Kentucky"	"21"	"Johnson County, KY"	"21115"	"White"	"2106-3"	14	23132	Unreliable
+	"2011"	"2011"	"Kentucky"	"21"	"Kenton County, KY"	"21117"	"White"	"2106-3"	20	149372	13.4
+	"2011"	"2011"	"Kentucky"	"21"	"Knox County, KY"	"21121"	"White"	"2106-3"	18	31268	Unreliable
+	"2011"	"2011"	"Kentucky"	"21"	"Pike County, KY"	"21195"	"White"	"2106-3"	25	63986	39.1
+	"2011"	"2011"	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	12	292757	Unreliable
+	"2011"	"2011"	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	28	202212	13.8
+	"2011"	"2011"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"White"	"2106-3"	10	266660	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	31	427546	7.3
+	"2011"	"2011"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	47	538143	8.7
+	"2011"	"2011"	"Maryland"	"24"	"Cecil County, MD"	"24015"	"White"	"2106-3"	21	92508	22.7
+	"2011"	"2011"	"Maryland"	"24"	"Frederick County, MD"	"24021"	"White"	"2106-3"	21	201723	10.4
+	"2011"	"2011"	"Maryland"	"24"	"Harford County, MD"	"24025"	"White"	"2106-3"	15	204106	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Howard County, MD"	"24027"	"White"	"2106-3"	11	189665	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	11	642904	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Wicomico County, MD"	"24045"	"White"	"2106-3"	10	70231	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	23	401225	5.7
+	"2011"	"2011"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"White"	"2106-3"	30	198045	15.1
+	"2011"	"2011"	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	"White"	"2106-3"	11	205266	Unreliable
+	"2011"	"2011"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"White"	"2106-3"	28	506684	5.5
+	"2011"	"2011"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	21	667936	3.1
+	"2011"	"2011"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	18	395494	Unreliable
+	"2011"	"2011"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	59	1274775	4.6
+	"2011"	"2011"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"White"	"2106-3"	31	566657	5.5
+	"2011"	"2011"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"White"	"2106-3"	20	439800	4.5
+	"2011"	"2011"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	32	472357	6.8
+	"2011"	"2011"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	35	719549	4.9
+	"2011"	"2011"	"Michigan"	"26"	"Genesee County, MI"	"26049"	"White"	"2106-3"	41	321689	12.7
+	"2011"	"2011"	"Michigan"	"26"	"Ingham County, MI"	"26065"	"White"	"2106-3"	12	224226	Unreliable
+	"2011"	"2011"	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	37	727380	5.1
+	"2011"	"2011"	"Michigan"	"26"	"Monroe County, MI"	"26115"	"White"	"2106-3"	10	145600	Unreliable
+	"2011"	"2011"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"White"	"2106-3"	10	266553	Unreliable
+	"2011"	"2011"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	42	744396	5.6
+	"2011"	"2011"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	90	992692	9.1
+	"2011"	"2011"	"Minnesota"	"27"	"Anoka County, MN"	"27003"	"White"	"2106-3"	18	298540	Unreliable
+	"2011"	"2011"	"Minnesota"	"27"	"Dakota County, MN"	"27037"	"White"	"2106-3"	23	356626	6.4
+	"2011"	"2011"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	23	919154	2.5
+	"2011"	"2011"	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"White"	"2106-3"	18	381289	Unreliable
+	"2011"	"2011"	"Minnesota"	"27"	"St. Louis County, MN"	"27137"	"White"	"2106-3"	10	188756	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"Franklin County, MO"	"29071"	"White"	"2106-3"	17	99667	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	10	258553	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	32	485706	6.6
+	"2011"	"2011"	"Missouri"	"29"	"Jefferson County, MO"	"29099"	"White"	"2106-3"	29	213984	13.6
+	"2011"	"2011"	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"White"	"2106-3"	38	336849	11.3
+	"2011"	"2011"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"Black or African American"	"2054-5"	18	239828	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	72	716650	10.0
+	"2011"	"2011"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	33	157221	21.0
+	"2011"	"2011"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"White"	"2106-3"	43	149177	28.8
+	"2011"	"2011"	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"White"	"2106-3"	18	435413	Unreliable
+	"2011"	"2011"	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	18	239076	Unreliable
+	"2011"	"2011"	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	229	1490524	15.4
+	"2011"	"2011"	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	47	373477	12.6
+	"2011"	"2011"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"White"	"2106-3"	19	374362	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"White"	"2106-3"	18	286538	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"Strafford County, NH"	"33017"	"White"	"2106-3"	10	118030	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"White"	"2106-3"	15	199756	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"White"	"2106-3"	18	701468	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Cape May County, NJ"	"34009"	"White"	"2106-3"	10	89710	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Black or African American"	"2054-5"	12	339085	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"White"	"2106-3"	17	398205	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"White"	"2106-3"	29	436724	6.6
+	"2011"	"2011"	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	"White"	"2106-3"	10	249028	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"White"	"2106-3"	32	531951	6.0
+	"2011"	"2011"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"White"	"2106-3"	57	542381	10.5
+	"2011"	"2011"	"New Jersey"	"34"	"Morris County, NJ"	"34027"	"White"	"2106-3"	13	426164	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"White"	"2106-3"	11	543778	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	"White"	"2106-3"	17	387048	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	51	582029	8.8
+	"2011"	"2011"	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	"White"	"2106-3"	11	134764	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	15	630229	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	24	648855	3.7
+	"2011"	"2011"	"New York"	"36"	"Dutchess County, NY"	"36027"	"White"	"2106-3"	12	250712	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	41	752207	5.5
+	"2011"	"2011"	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	13	939872	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	48	1271611	3.8
+	"2011"	"2011"	"New York"	"36"	"Monroe County, NY"	"36055"	"White"	"2106-3"	24	590338	4.1
+	"2011"	"2011"	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	55	1054297	5.2
+	"2011"	"2011"	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	33	1068903	3.1
+	"2011"	"2011"	"New York"	"36"	"Niagara County, NY"	"36063"	"White"	"2106-3"	10	194403	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Onondaga County, NY"	"36067"	"White"	"2106-3"	20	388153	5.2
+	"2011"	"2011"	"New York"	"36"	"Orange County, NY"	"36071"	"White"	"2106-3"	17	314577	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Oswego County, NY"	"36075"	"White"	"2106-3"	10	119053	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	37	1154779	3.2
+	"2011"	"2011"	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	40	370822	10.8
+	"2011"	"2011"	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	149	1300132	11.5
+	"2011"	"2011"	"New York"	"36"	"Sullivan County, NY"	"36105"	"White"	"2106-3"	19	66648	Unreliable
+	"2011"	"2011"	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	27	729800	3.7
+	"2011"	"2011"	"North Carolina"	"37"	"Brunswick County, NC"	"37019"	"White"	"2106-3"	15	94995	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	"White"	"2106-3"	11	219406	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Catawba County, NC"	"37035"	"White"	"2106-3"	12	133190	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Cherokee County, NC"	"37039"	"White"	"2106-3"	13	26003	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"White"	"2106-3"	11	181951	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Davidson County, NC"	"37057"	"White"	"2106-3"	14	143314	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"White"	"2106-3"	18	245055	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"White"	"2106-3"	17	169466	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	16	301055	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Iredell County, NC"	"37097"	"White"	"2106-3"	15	136002	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	27	582790	4.6
+	"2011"	"2011"	"North Carolina"	"37"	"New Hanover County, NC"	"37129"	"White"	"2106-3"	15	169297	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Randolph County, NC"	"37151"	"White"	"2106-3"	17	129707	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Rowan County, NC"	"37159"	"White"	"2106-3"	19	112090	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	19	661669	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Butler County, OH"	"39017"	"White"	"2106-3"	42	327513	12.8
+	"2011"	"2011"	"Ohio"	"39"	"Clark County, OH"	"39023"	"White"	"2106-3"	20	122218	16.4
+	"2011"	"2011"	"Ohio"	"39"	"Clermont County, OH"	"39025"	"White"	"2106-3"	21	192898	10.9
+	"2011"	"2011"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	70	837250	8.4
+	"2011"	"2011"	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	99	854464	11.6
+	"2011"	"2011"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	47	565263	8.3
+	"2011"	"2011"	"Ohio"	"39"	"Lake County, OH"	"39085"	"White"	"2106-3"	24	217109	11.1
+	"2011"	"2011"	"Ohio"	"39"	"Lawrence County, OH"	"39087"	"White"	"2106-3"	15	60347	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Lucas County, OH"	"39095"	"White"	"2106-3"	18	339120	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Mahoning County, OH"	"39099"	"White"	"2106-3"	32	194201	16.5
+	"2011"	"2011"	"Ohio"	"39"	"Medina County, OH"	"39103"	"White"	"2106-3"	14	168034	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	11	406934	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Ross County, OH"	"39141"	"White"	"2106-3"	17	71938	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Stark County, OH"	"39151"	"White"	"2106-3"	21	337721	6.2
+	"2011"	"2011"	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	24	441425	5.4
+	"2011"	"2011"	"Ohio"	"39"	"Trumbull County, OH"	"39155"	"White"	"2106-3"	31	188421	16.5
+	"2011"	"2011"	"Oklahoma"	"40"	"Canadian County, OK"	"40017"	"White"	"2106-3"	12	104719	Unreliable
+	"2011"	"2011"	"Oklahoma"	"40"	"Carter County, OK"	"40019"	"White"	"2106-3"	10	38117	Unreliable
+	"2011"	"2011"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"White"	"2106-3"	18	220041	Unreliable
+	"2011"	"2011"	"Oklahoma"	"40"	"Muskogee County, OK"	"40101"	"White"	"2106-3"	11	46667	Unreliable
+	"2011"	"2011"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	63	545970	11.5
+	"2011"	"2011"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	50	474228	10.5
+	"2011"	"2011"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"White"	"2106-3"	28	352606	7.9
+	"2011"	"2011"	"Oregon"	"41"	"Deschutes County, OR"	"41017"	"White"	"2106-3"	11	154649	Unreliable
+	"2011"	"2011"	"Oregon"	"41"	"Jackson County, OR"	"41029"	"White"	"2106-3"	13	194498	Unreliable
+	"2011"	"2011"	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	40	329032	12.2
+	"2011"	"2011"	"Oregon"	"41"	"Linn County, OR"	"41043"	"White"	"2106-3"	10	112952	Unreliable
+	"2011"	"2011"	"Oregon"	"41"	"Marion County, OR"	"41047"	"White"	"2106-3"	13	293316	Unreliable
+	"2011"	"2011"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	100	623333	16.0
+	"2011"	"2011"	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	28	462461	6.1
+	"2011"	"2011"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Black or African American"	"2054-5"	13	171462	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	84	1015242	8.3
+	"2011"	"2011"	"Pennsylvania"	"42"	"Beaver County, PA"	"42007"	"White"	"2106-3"	14	157268	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Butler County, PA"	"42019"	"White"	"2106-3"	13	179778	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	"White"	"2106-3"	10	413334	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Fayette County, PA"	"42051"	"White"	"2106-3"	13	128170	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Franklin County, PA"	"42055"	"White"	"2106-3"	11	142297	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"White"	"2106-3"	22	202180	10.9
+	"2011"	"2011"	"Pennsylvania"	"42"	"Lawrence County, PA"	"42073"	"White"	"2106-3"	13	85746	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"White"	"2106-3"	32	670101	4.8
+	"2011"	"2011"	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"White"	"2106-3"	10	716026	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	"White"	"2106-3"	23	198155	11.6
+	"2011"	"2011"	"Pennsylvania"	"42"	"York County, PA"	"42133"	"White"	"2106-3"	10	399015	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"White"	"2106-3"	13	157578	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	37	516939	7.2
+	"2011"	"2011"	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"White"	"2106-3"	16	241368	Unreliable
+	"2011"	"2011"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	43	360516	11.9
+	"2011"	"2011"	"South Carolina"	"45"	"Pickens County, SC"	"45077"	"White"	"2106-3"	17	108264	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"Anderson County, TN"	"47001"	"White"	"2106-3"	16	70557	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"Bradley County, TN"	"47011"	"White"	"2106-3"	10	93264	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"Campbell County, TN"	"47013"	"White"	"2106-3"	12	39964	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"Cheatham County, TN"	"47021"	"White"	"2106-3"	10	37928	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	52	427754	12.2
+	"2011"	"2011"	"Tennessee"	"47"	"Hamblen County, TN"	"47063"	"White"	"2106-3"	18	58665	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	21	261147	8.0
+	"2011"	"2011"	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	52	383516	13.6
+	"2011"	"2011"	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"White"	"2106-3"	15	221835	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	37	412126	9.0
+	"2011"	"2011"	"Tennessee"	"47"	"Wilson County, TN"	"47189"	"White"	"2106-3"	12	106376	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	42	1529433	2.7
+	"2011"	"2011"	"Texas"	"48"	"Brazoria County, TX"	"48039"	"White"	"2106-3"	13	256724	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Collin County, TX"	"48085"	"White"	"2106-3"	24	630116	3.8
+	"2011"	"2011"	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	31	1696078	1.8
+	"2011"	"2011"	"Texas"	"48"	"Denton County, TX"	"48121"	"White"	"2106-3"	10	565014	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"White"	"2106-3"	11	359799	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Galveston County, TX"	"48167"	"White"	"2106-3"	17	239992	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	26	821023	3.2
+	"2011"	"2011"	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	141	3021559	4.7
+	"2011"	"2011"	"Texas"	"48"	"Jefferson County, TX"	"48245"	"White"	"2106-3"	13	153083	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	19	430450	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Nueces County, TX"	"48355"	"White"	"2106-3"	29	317058	9.1
+	"2011"	"2011"	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	16	1440906	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	19	878200	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Williamson County, TX"	"48491"	"White"	"2106-3"	13	381631	Unreliable
+	"2011"	"2011"	"Utah"	"49"	"Carbon County, UT"	"49007"	"White"	"2106-3"	10	20545	Unreliable
+	"2011"	"2011"	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	20	294516	6.8
+	"2011"	"2011"	"Utah"	"49"	"Iron County, UT"	"49021"	"White"	"2106-3"	12	44190	Unreliable
+	"2011"	"2011"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	114	952218	12.0
+	"2011"	"2011"	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	58	505085	11.5
+	"2011"	"2011"	"Utah"	"49"	"Washington County, UT"	"49053"	"White"	"2106-3"	15	134722	Unreliable
+	"2011"	"2011"	"Utah"	"49"	"Weber County, UT"	"49057"	"White"	"2106-3"	44	221239	19.9
+	"2011"	"2011"	"Vermont"	"50"	"Chittenden County, VT"	"50007"	"White"	"2106-3"	10	147760	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"Chesterfield County, VA"	"51041"	"White"	"2106-3"	13	230969	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	21	767431	2.7
+	"2011"	"2011"	"Virginia"	"51"	"Henrico County, VA"	"51087"	"White"	"2106-3"	17	191750	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"Prince William County, VA"	"51153"	"White"	"2106-3"	15	282465	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"Russell County, VA"	"51167"	"White"	"2106-3"	13	28288	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"Tazewell County, VA"	"51185"	"White"	"2106-3"	20	42810	46.7
+	"2011"	"2011"	"Virginia"	"51"	"Norfolk city, VA"	"51710"	"White"	"2106-3"	13	122721	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"Richmond city, VA"	"51760"	"White"	"2106-3"	11	91905	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"White"	"2106-3"	18	314516	Unreliable
+	"2011"	"2011"	"Washington"	"53"	"Clark County, WA"	"53011"	"White"	"2106-3"	26	390701	6.7
+	"2011"	"2011"	"Washington"	"53"	"Cowlitz County, WA"	"53015"	"White"	"2106-3"	11	96601	Unreliable
+	"2011"	"2011"	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	61	1463034	4.2
+	"2011"	"2011"	"Washington"	"53"	"Lewis County, WA"	"53041"	"White"	"2106-3"	12	72316	Unreliable
+	"2011"	"2011"	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	55	647900	8.5
+	"2011"	"2011"	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	71	606209	11.7
+	"2011"	"2011"	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	41	437111	9.4
+	"2011"	"2011"	"Washington"	"53"	"Thurston County, WA"	"53067"	"White"	"2106-3"	10	223164	Unreliable
+	"2011"	"2011"	"Washington"	"53"	"Whatcom County, WA"	"53073"	"White"	"2106-3"	14	183255	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	"White"	"2106-3"	18	95629	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Boone County, WV"	"54005"	"White"	"2106-3"	26	24189	107.5
+	"2011"	"2011"	"West Virginia"	"54"	"Cabell County, WV"	"54011"	"White"	"2106-3"	33	89718	36.8
+	"2011"	"2011"	"West Virginia"	"54"	"Fayette County, WV"	"54019"	"White"	"2106-3"	18	43149	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Greenbrier County, WV"	"54025"	"White"	"2106-3"	11	34326	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Harrison County, WV"	"54033"	"White"	"2106-3"	17	67371	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"White"	"2106-3"	54	173943	31.0
+	"2011"	"2011"	"West Virginia"	"54"	"Lincoln County, WV"	"54043"	"White"	"2106-3"	15	21429	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Logan County, WV"	"54045"	"White"	"2106-3"	23	35400	65.0
+	"2011"	"2011"	"West Virginia"	"54"	"McDowell County, WV"	"54047"	"White"	"2106-3"	25	19562	127.8
+	"2011"	"2011"	"West Virginia"	"54"	"Mercer County, WV"	"54055"	"White"	"2106-3"	37	57824	64.0
+	"2011"	"2011"	"West Virginia"	"54"	"Mingo County, WV"	"54059"	"White"	"2106-3"	14	25869	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Nicholas County, WV"	"54067"	"White"	"2106-3"	14	25993	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Putnam County, WV"	"54079"	"White"	"2106-3"	13	54648	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	"White"	"2106-3"	49	71113	68.9
+	"2011"	"2011"	"West Virginia"	"54"	"Wayne County, WV"	"54099"	"White"	"2106-3"	17	41741	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	"White"	"2106-3"	28	23138	121.0
+	"2011"	"2011"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	31	436258	7.1
+	"2011"	"2011"	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"White"	"2106-3"	13	149737	Unreliable
+	"2011"	"2011"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	26	267474	9.7
+	"2011"	"2011"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	71	637785	11.1
+	"2011"	"2011"	"Wisconsin"	"55"	"Racine County, WI"	"55101"	"White"	"2106-3"	10	167467	Unreliable
+	"2011"	"2011"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"White"	"2106-3"	36	370883	9.7
+	"2012"	"2012"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"Black or African American"	"2054-5"	11	284036	Unreliable
+	"2012"	"2012"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	53	361961	14.6
+	"2012"	"2012"	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	"White"	"2106-3"	10	210769	Unreliable
+	"2012"	"2012"	"Alaska"	"02"	"Matanuska-Susitna Borough, AK"	"02170"	"White"	"2106-3"	11	83159	Unreliable
+	"2012"	"2012"	"Arizona"	"04"	"Cochise County, AZ"	"04003"	"White"	"2106-3"	13	118256	Unreliable
+	"2012"	"2012"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	153	3402391	4.5
+	"2012"	"2012"	"Arizona"	"04"	"Mohave County, AZ"	"04015"	"White"	"2106-3"	29	190423	15.2
+	"2012"	"2012"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	99	866588	11.4
+	"2012"	"2012"	"Arizona"	"04"	"Pinal County, AZ"	"04021"	"White"	"2106-3"	28	327145	8.6
+	"2012"	"2012"	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"White"	"2106-3"	21	202561	10.4
+	"2012"	"2012"	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"White"	"2106-3"	24	235642	10.2
+	"2012"	"2012"	"Arkansas"	"05"	"Sebastian County, AR"	"05131"	"White"	"2106-3"	11	108613	Unreliable
+	"2012"	"2012"	"Arkansas"	"05"	"Washington County, AR"	"05143"	"White"	"2106-3"	10	189761	Unreliable
+	"2012"	"2012"	"California"	"06"	"Alameda County, CA"	"06001"	"Black or African American"	"2054-5"	14	215036	Unreliable
+	"2012"	"2012"	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	14	849355	Unreliable
+	"2012"	"2012"	"California"	"06"	"Butte County, CA"	"06007"	"White"	"2106-3"	14	198013	Unreliable
+	"2012"	"2012"	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	22	760812	2.9
+	"2012"	"2012"	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	27	748252	3.6
+	"2012"	"2012"	"California"	"06"	"Humboldt County, CA"	"06023"	"White"	"2106-3"	16	117621	Unreliable
+	"2012"	"2012"	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	26	723867	3.6
+	"2012"	"2012"	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	23	979138	2.3
+	"2012"	"2012"	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	157	7268749	2.2
+	"2012"	"2012"	"California"	"06"	"Madera County, CA"	"06039"	"White"	"2106-3"	16	133313	Unreliable
+	"2012"	"2012"	"California"	"06"	"Monterey County, CA"	"06053"	"White"	"2106-3"	13	359892	Unreliable
+	"2012"	"2012"	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	140	2355251	5.9
+	"2012"	"2012"	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	61	1871752	3.3
+	"2012"	"2012"	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	33	984062	3.4
+	"2012"	"2012"	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	45	1648510	2.7
+	"2012"	"2012"	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	197	2504500	7.9
+	"2012"	"2012"	"California"	"06"	"San Francisco County, CA"	"06075"	"White"	"2106-3"	31	463929	6.7
+	"2012"	"2012"	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	23	498126	4.6
+	"2012"	"2012"	"California"	"06"	"San Luis Obispo County, CA"	"06079"	"White"	"2106-3"	14	250356	Unreliable
+	"2012"	"2012"	"California"	"06"	"San Mateo County, CA"	"06081"	"White"	"2106-3"	16	485562	Unreliable
+	"2012"	"2012"	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	25	1097095	2.3
+	"2012"	"2012"	"California"	"06"	"Shasta County, CA"	"06089"	"White"	"2106-3"	16	163077	Unreliable
+	"2012"	"2012"	"California"	"06"	"Sonoma County, CA"	"06097"	"White"	"2106-3"	15	441549	Unreliable
+	"2012"	"2012"	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	15	451211	Unreliable
+	"2012"	"2012"	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	53	726191	7.3
+	"2012"	"2012"	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	39	408443	9.5
+	"2012"	"2012"	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	10	480968	Unreliable
+	"2012"	"2012"	"Colorado"	"08"	"Boulder County, CO"	"08013"	"White"	"2106-3"	20	282786	7.1
+	"2012"	"2012"	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	38	520022	7.3
+	"2012"	"2012"	"Colorado"	"08"	"Douglas County, CO"	"08035"	"White"	"2106-3"	12	277885	Unreliable
+	"2012"	"2012"	"Colorado"	"08"	"El Paso County, CO"	"08041"	"White"	"2106-3"	22	556255	4.0
+	"2012"	"2012"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	29	510953	5.7
+	"2012"	"2012"	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	15	294754	Unreliable
+	"2012"	"2012"	"Colorado"	"08"	"Pueblo County, CO"	"08101"	"White"	"2106-3"	18	148684	Unreliable
+	"2012"	"2012"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	22	761094	2.9
+	"2012"	"2012"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	25	707690	3.5
+	"2012"	"2012"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	16	695519	Unreliable
+	"2012"	"2012"	"Connecticut"	"09"	"New London County, CT"	"09011"	"White"	"2106-3"	11	236398	Unreliable
+	"2012"	"2012"	"Delaware"	"10"	"Kent County, DE"	"10001"	"White"	"2106-3"	14	117742	Unreliable
+	"2012"	"2012"	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	39	376928	10.3
+	"2012"	"2012"	"Delaware"	"10"	"Sussex County, DE"	"10005"	"White"	"2106-3"	15	169639	Unreliable
+	"2012"	"2012"	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"Black or African American"	"2054-5"	12	324476	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	20	468624	4.3
+	"2012"	"2012"	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	97	1216530	8.0
+	"2012"	"2012"	"Florida"	"12"	"Clay County, FL"	"12019"	"White"	"2106-3"	16	164765	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Collier County, FL"	"12021"	"White"	"2106-3"	18	301226	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	81	560969	14.4
+	"2012"	"2012"	"Florida"	"12"	"Escambia County, FL"	"12033"	"White"	"2106-3"	17	217083	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Hernando County, FL"	"12053"	"White"	"2106-3"	13	159635	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	77	985764	7.8
+	"2012"	"2012"	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	37	569328	6.5
+	"2012"	"2012"	"Florida"	"12"	"Manatee County, FL"	"12081"	"White"	"2106-3"	24	292398	8.2
+	"2012"	"2012"	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	13	282176	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	53	2025029	2.6
+	"2012"	"2012"	"Florida"	"12"	"Nassau County, FL"	"12089"	"White"	"2106-3"	13	68238	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	62	853368	7.3
+	"2012"	"2012"	"Florida"	"12"	"Osceola County, FL"	"12097"	"White"	"2106-3"	15	235254	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	38	1053465	3.6
+	"2012"	"2012"	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	26	429468	6.1
+	"2012"	"2012"	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	47	780586	6.0
+	"2012"	"2012"	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"White"	"2106-3"	10	218040	Unreliable
+	"2012"	"2012"	"Florida"	"12"	"Sarasota County, FL"	"12115"	"White"	"2106-3"	41	357799	11.5
+	"2012"	"2012"	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	29	356371	8.1
+	"2012"	"2012"	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	41	427691	9.6
+	"2012"	"2012"	"Georgia"	"13"	"Chatham County, GA"	"13051"	"White"	"2106-3"	13	153320	Unreliable
+	"2012"	"2012"	"Georgia"	"13"	"Clayton County, GA"	"13063"	"White"	"2106-3"	10	67998	Unreliable
+	"2012"	"2012"	"Georgia"	"13"	"Cobb County, GA"	"13067"	"White"	"2106-3"	10	475730	Unreliable
+	"2012"	"2012"	"Georgia"	"13"	"Fulton County, GA"	"13121"	"White"	"2106-3"	32	466352	6.9
+	"2012"	"2012"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	18	516596	Unreliable
+	"2012"	"2012"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"Asian or Pacific Islander"	"A-PI"	14	679245	Unreliable
+	"2012"	"2012"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"White"	"2106-3"	18	257600	Unreliable
+	"2012"	"2012"	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	10	384816	Unreliable
+	"2012"	"2012"	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	27	1324777	2.0
+	"2012"	"2012"	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	56	3489325	1.6
+	"2012"	"2012"	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	18	769870	Unreliable
+	"2012"	"2012"	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	13	589751	Unreliable
+	"2012"	"2012"	"Illinois"	"17"	"Madison County, IL"	"17119"	"White"	"2106-3"	14	240979	Unreliable
+	"2012"	"2012"	"Indiana"	"18"	"Delaware County, IN"	"18035"	"White"	"2106-3"	11	106242	Unreliable
+	"2012"	"2012"	"Indiana"	"18"	"Madison County, IN"	"18095"	"White"	"2106-3"	19	117130	Unreliable
+	"2012"	"2012"	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	20	626686	3.2
+	"2012"	"2012"	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	18	159198	Unreliable
+	"2012"	"2012"	"Iowa"	"19"	"Linn County, IA"	"19113"	"White"	"2106-3"	12	198608	Unreliable
+	"2012"	"2012"	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	31	391428	7.9
+	"2012"	"2012"	"Iowa"	"19"	"Scott County, IA"	"19163"	"White"	"2106-3"	11	149817	Unreliable
+	"2012"	"2012"	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	28	499215	5.6
+	"2012"	"2012"	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	12	418061	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Boone County, KY"	"21015"	"White"	"2106-3"	10	115637	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Campbell County, KY"	"21037"	"White"	"2106-3"	30	87046	34.5
+	"2012"	"2012"	"Kentucky"	"21"	"Clay County, KY"	"21051"	"White"	"2106-3"	15	20481	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"White"	"2106-3"	30	244545	12.3
+	"2012"	"2012"	"Kentucky"	"21"	"Floyd County, KY"	"21071"	"White"	"2106-3"	14	38445	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"White"	"2106-3"	38	563247	6.7
+	"2012"	"2012"	"Kentucky"	"21"	"Kenton County, KY"	"21117"	"White"	"2106-3"	25	150407	16.6
+	"2012"	"2012"	"Kentucky"	"21"	"Knox County, KY"	"21121"	"White"	"2106-3"	10	31119	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Letcher County, KY"	"21133"	"White"	"2106-3"	10	23728	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Madison County, KY"	"21151"	"White"	"2106-3"	16	79123	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Pike County, KY"	"21195"	"White"	"2106-3"	19	63255	Unreliable
+	"2012"	"2012"	"Kentucky"	"21"	"Whitley County, KY"	"21235"	"White"	"2106-3"	13	34861	Unreliable
+	"2012"	"2012"	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	38	292850	13.0
+	"2012"	"2012"	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	14	204694	Unreliable
+	"2012"	"2012"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"White"	"2106-3"	24	267205	9.0
+	"2012"	"2012"	"Maine"	"23"	"York County, ME"	"23031"	"White"	"2106-3"	16	193810	Unreliable
+	"2012"	"2012"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	25	431441	5.8
+	"2012"	"2012"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	50	538953	9.3
+	"2012"	"2012"	"Maryland"	"24"	"Cecil County, MD"	"24015"	"White"	"2106-3"	16	92754	Unreliable
+	"2012"	"2012"	"Maryland"	"24"	"Frederick County, MD"	"24021"	"White"	"2106-3"	20	204002	9.8
+	"2012"	"2012"	"Maryland"	"24"	"Harford County, MD"	"24025"	"White"	"2106-3"	16	205559	Unreliable
+	"2012"	"2012"	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	12	648591	Unreliable
+	"2012"	"2012"	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"White"	"2106-3"	12	237912	Unreliable
+	"2012"	"2012"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	34	402702	8.4
+	"2012"	"2012"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"White"	"2106-3"	26	197730	13.1
+	"2012"	"2012"	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	"White"	"2106-3"	11	204487	Unreliable
+	"2012"	"2012"	"Massachusetts"	"25"	"Berkshire County, MA"	"25003"	"White"	"2106-3"	10	122692	Unreliable
+	"2012"	"2012"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"White"	"2106-3"	23	507732	4.5
+	"2012"	"2012"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	42	671147	6.3
+	"2012"	"2012"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	22	396939	5.5
+	"2012"	"2012"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	43	1283470	3.4
+	"2012"	"2012"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"White"	"2106-3"	34	567680	6.0
+	"2012"	"2012"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"White"	"2106-3"	25	440266	5.7
+	"2012"	"2012"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	38	478599	7.9
+	"2012"	"2012"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	25	721527	3.5
+	"2012"	"2012"	"Michigan"	"26"	"Genesee County, MI"	"26049"	"White"	"2106-3"	30	318707	9.4
+	"2012"	"2012"	"Michigan"	"26"	"Ingham County, MI"	"26065"	"White"	"2106-3"	16	224407	Unreliable
+	"2012"	"2012"	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	"White"	"2106-3"	12	213970	Unreliable
+	"2012"	"2012"	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	24	521797	4.6
+	"2012"	"2012"	"Michigan"	"26"	"Livingston County, MI"	"26093"	"White"	"2106-3"	13	178590	Unreliable
+	"2012"	"2012"	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	22	725647	3.0
+	"2012"	"2012"	"Michigan"	"26"	"Monroe County, MI"	"26115"	"White"	"2106-3"	20	145138	13.8
+	"2012"	"2012"	"Michigan"	"26"	"Oakland County, MI"	"26125"	"White"	"2106-3"	19	956105	Unreliable
+	"2012"	"2012"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"White"	"2106-3"	20	268904	7.4
+	"2012"	"2012"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	37	736526	5.0
+	"2012"	"2012"	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	84	989188	8.5
+	"2012"	"2012"	"Minnesota"	"27"	"Anoka County, MN"	"27003"	"White"	"2106-3"	17	299727	Unreliable
+	"2012"	"2012"	"Minnesota"	"27"	"Dakota County, MN"	"27037"	"White"	"2106-3"	18	357818	Unreliable
+	"2012"	"2012"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	29	925651	3.1
+	"2012"	"2012"	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"White"	"2106-3"	22	380680	5.8
+	"2012"	"2012"	"Minnesota"	"27"	"St. Louis County, MN"	"27137"	"White"	"2106-3"	16	188901	Unreliable
+	"2012"	"2012"	"Missouri"	"29"	"Clay County, MO"	"29047"	"White"	"2106-3"	11	205415	Unreliable
+	"2012"	"2012"	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	15	261645	Unreliable
+	"2012"	"2012"	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	32	486077	6.6
+	"2012"	"2012"	"Missouri"	"29"	"Jefferson County, MO"	"29099"	"White"	"2106-3"	40	214825	18.6
+	"2012"	"2012"	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"White"	"2106-3"	20	339803	5.9
+	"2012"	"2012"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"Black or African American"	"2054-5"	22	242885	9.1
+	"2012"	"2012"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	59	713536	8.3
+	"2012"	"2012"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	20	158021	12.7
+	"2012"	"2012"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"White"	"2106-3"	33	148166	22.3
+	"2012"	"2012"	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"White"	"2106-3"	20	439410	4.6
+	"2012"	"2012"	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	26	249461	10.4
+	"2012"	"2012"	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	220	1501634	14.7
+	"2012"	"2012"	"Nevada"	"32"	"Nye County, NV"	"32023"	"White"	"2106-3"	10	39534	Unreliable
+	"2012"	"2012"	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	47	376281	12.5
+	"2012"	"2012"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"White"	"2106-3"	14	374460	Unreliable
+	"2012"	"2012"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"White"	"2106-3"	17	287712	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"White"	"2106-3"	10	199887	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"White"	"2106-3"	21	702286	3.0
+	"2012"	"2012"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Black or African American"	"2054-5"	12	340254	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"White"	"2106-3"	15	398670	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"White"	"2106-3"	25	440679	5.7
+	"2012"	"2012"	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	"White"	"2106-3"	13	248436	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"White"	"2106-3"	29	530571	5.5
+	"2012"	"2012"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"White"	"2106-3"	44	540746	8.1
+	"2012"	"2012"	"New Jersey"	"34"	"Morris County, NJ"	"34027"	"White"	"2106-3"	11	427322	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"White"	"2106-3"	10	544825	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	"White"	"2106-3"	18	387354	Unreliable
+	"2012"	"2012"	"New Jersey"	"34"	"Union County, NJ"	"34039"	"White"	"2106-3"	10	380173	Unreliable
+	"2012"	"2012"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	78	583395	13.4
+	"2012"	"2012"	"New Mexico"	"35"	"Dona Ana County, NM"	"35013"	"White"	"2106-3"	18	200460	Unreliable
+	"2012"	"2012"	"New Mexico"	"35"	"Sandoval County, NM"	"35043"	"White"	"2106-3"	10	109495	Unreliable
+	"2012"	"2012"	"New Mexico"	"35"	"San Miguel County, NM"	"35047"	"White"	"2106-3"	10	26988	Unreliable
+	"2012"	"2012"	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	"White"	"2106-3"	26	135409	19.2
+	"2012"	"2012"	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	12	639385	Unreliable
+	"2012"	"2012"	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	25	654219	3.8
+	"2012"	"2012"	"New York"	"36"	"Dutchess County, NY"	"36027"	"White"	"2106-3"	20	249569	8.0
+	"2012"	"2012"	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	22	751922	2.9
+	"2012"	"2012"	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	15	944572	Unreliable
+	"2012"	"2012"	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	40	1286918	3.1
+	"2012"	"2012"	"New York"	"36"	"Monroe County, NY"	"36055"	"White"	"2106-3"	17	591429	Unreliable
+	"2012"	"2012"	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	62	1052355	5.9
+	"2012"	"2012"	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	33	1076312	3.1
+	"2012"	"2012"	"New York"	"36"	"Onondaga County, NY"	"36067"	"White"	"2106-3"	26	387425	6.7
+	"2012"	"2012"	"New York"	"36"	"Orange County, NY"	"36071"	"White"	"2106-3"	17	313917	Unreliable
+	"2012"	"2012"	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	33	1158868	2.8
+	"2012"	"2012"	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	44	371105	11.9
+	"2012"	"2012"	"New York"	"36"	"Rockland County, NY"	"36087"	"White"	"2106-3"	13	250842	Unreliable
+	"2012"	"2012"	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	96	1298429	7.4
+	"2012"	"2012"	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	30	732112	4.1
+	"2012"	"2012"	"North Carolina"	"37"	"Brunswick County, NC"	"37019"	"White"	"2106-3"	12	96897	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	"White"	"2106-3"	14	222347	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Burke County, NC"	"37023"	"White"	"2106-3"	12	79258	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Catawba County, NC"	"37035"	"White"	"2106-3"	10	133178	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Davidson County, NC"	"37057"	"White"	"2106-3"	11	144107	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"White"	"2106-3"	14	246769	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"White"	"2106-3"	17	170118	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	20	301418	6.6
+	"2012"	"2012"	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	31	592647	5.2
+	"2012"	"2012"	"North Carolina"	"37"	"New Hanover County, NC"	"37129"	"White"	"2106-3"	15	172507	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Randolph County, NC"	"37151"	"White"	"2106-3"	10	129924	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Rowan County, NC"	"37159"	"White"	"2106-3"	15	112373	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	12	673952	Unreliable
+	"2012"	"2012"	"North Carolina"	"37"	"Wilkes County, NC"	"37193"	"White"	"2106-3"	10	65392	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Butler County, OH"	"39017"	"White"	"2106-3"	16	327054	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Clark County, OH"	"39023"	"White"	"2106-3"	17	121626	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Clermont County, OH"	"39025"	"White"	"2106-3"	17	192767	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"Black or African American"	"2054-5"	12	392084	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	47	830146	5.7
+	"2012"	"2012"	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	85	860974	9.9
+	"2012"	"2012"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	47	564651	8.3
+	"2012"	"2012"	"Ohio"	"39"	"Lake County, OH"	"39085"	"White"	"2106-3"	20	216546	9.2
+	"2012"	"2012"	"Ohio"	"39"	"Lorain County, OH"	"39093"	"White"	"2106-3"	19	266333	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Lucas County, OH"	"39095"	"White"	"2106-3"	40	336535	11.9
+	"2012"	"2012"	"Ohio"	"39"	"Mahoning County, OH"	"39099"	"White"	"2106-3"	17	192408	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Medina County, OH"	"39103"	"White"	"2106-3"	10	168392	Unreliable
+	"2012"	"2012"	"Ohio"	"39"	"Stark County, OH"	"39151"	"White"	"2106-3"	23	337317	6.8
+	"2012"	"2012"	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	41	440939	9.3
+	"2012"	"2012"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"White"	"2106-3"	27	223395	12.1
+	"2012"	"2012"	"Oklahoma"	"40"	"Grady County, OK"	"40051"	"White"	"2106-3"	11	47464	Unreliable
+	"2012"	"2012"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	73	551477	13.2
+	"2012"	"2012"	"Oklahoma"	"40"	"Stephens County, OK"	"40137"	"White"	"2106-3"	16	40363	Unreliable
+	"2012"	"2012"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	55	475234	11.6
+	"2012"	"2012"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"White"	"2106-3"	23	355324	6.5
+	"2012"	"2012"	"Oregon"	"41"	"Jackson County, OR"	"41029"	"White"	"2106-3"	19	195936	Unreliable
+	"2012"	"2012"	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	29	329994	8.8
+	"2012"	"2012"	"Oregon"	"41"	"Linn County, OR"	"41043"	"White"	"2106-3"	10	113143	Unreliable
+	"2012"	"2012"	"Oregon"	"41"	"Marion County, OR"	"41047"	"White"	"2106-3"	15	293945	Unreliable
+	"2012"	"2012"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	71	630757	11.3
+	"2012"	"2012"	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	29	465954	6.2
+	"2012"	"2012"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Black or African American"	"2054-5"	10	172452	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	79	1014260	7.8
+	"2012"	"2012"	"Pennsylvania"	"42"	"Beaver County, PA"	"42007"	"White"	"2106-3"	17	157080	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"White"	"2106-3"	10	373717	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Bucks County, PA"	"42017"	"White"	"2106-3"	12	569988	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Butler County, PA"	"42019"	"White"	"2106-3"	14	179873	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Erie County, PA"	"42049"	"White"	"2106-3"	12	252883	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"White"	"2106-3"	30	201969	14.9
+	"2012"	"2012"	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	"White"	"2106-3"	11	485964	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"White"	"2106-3"	35	669957	5.2
+	"2012"	"2012"	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"White"	"2106-3"	10	716902	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	"White"	"2106-3"	16	198570	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Wayne County, PA"	"42127"	"White"	"2106-3"	12	49528	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	"White"	"2106-3"	10	349219	Unreliable
+	"2012"	"2012"	"Pennsylvania"	"42"	"York County, PA"	"42133"	"White"	"2106-3"	15	399465	Unreliable
+	"2012"	"2012"	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"White"	"2106-3"	22	156572	14.1
+	"2012"	"2012"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	48	515443	9.3
+	"2012"	"2012"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	38	365023	10.4
+	"2012"	"2012"	"South Carolina"	"45"	"Pickens County, SC"	"45077"	"White"	"2106-3"	11	108512	Unreliable
+	"2012"	"2012"	"Tennessee"	"47"	"Blount County, TN"	"47009"	"White"	"2106-3"	13	118440	Unreliable
+	"2012"	"2012"	"Tennessee"	"47"	"Bradley County, TN"	"47011"	"White"	"2106-3"	11	94265	Unreliable
+	"2012"	"2012"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	45	433916	10.4
+	"2012"	"2012"	"Tennessee"	"47"	"Hamblen County, TN"	"47063"	"White"	"2106-3"	13	58343	Unreliable
+	"2012"	"2012"	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	33	264625	12.5
+	"2012"	"2012"	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	60	386803	15.5
+	"2012"	"2012"	"Tennessee"	"47"	"Lawrence County, TN"	"47099"	"White"	"2106-3"	10	40879	Unreliable
+	"2012"	"2012"	"Tennessee"	"47"	"Montgomery County, TN"	"47125"	"White"	"2106-3"	15	138340	Unreliable
+	"2012"	"2012"	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"White"	"2106-3"	16	225727	Unreliable
+	"2012"	"2012"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	38	408729	9.3
+	"2012"	"2012"	"Tennessee"	"47"	"Wilson County, TN"	"47189"	"White"	"2106-3"	11	108355	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	31	1550694	2.0
+	"2012"	"2012"	"Texas"	"48"	"Brazoria County, TX"	"48039"	"White"	"2106-3"	18	258636	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Collin County, TX"	"48085"	"White"	"2106-3"	19	642442	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	32	1708412	1.9
+	"2012"	"2012"	"Texas"	"48"	"Denton County, TX"	"48121"	"White"	"2106-3"	15	578390	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"White"	"2106-3"	12	369217	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Galveston County, TX"	"48167"	"White"	"2106-3"	15	243814	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	22	844790	2.6
+	"2012"	"2012"	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	115	3056699	3.8
+	"2012"	"2012"	"Texas"	"48"	"Jefferson County, TX"	"48245"	"White"	"2106-3"	10	151901	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	14	442654	Unreliable
+	"2012"	"2012"	"Texas"	"48"	"Nueces County, TX"	"48355"	"White"	"2106-3"	26	321079	8.1
+	"2012"	"2012"	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	38	1455915	2.6
+	"2012"	"2012"	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	16	902574	Unreliable
+	"2012"	"2012"	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	32	298053	10.7
+	"2012"	"2012"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	144	962692	15.0
+	"2012"	"2012"	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	59	514738	11.5
+	"2012"	"2012"	"Utah"	"49"	"Washington County, UT"	"49053"	"White"	"2106-3"	23	137660	16.7
+	"2012"	"2012"	"Utah"	"49"	"Weber County, UT"	"49057"	"White"	"2106-3"	39	223294	17.5
+	"2012"	"2012"	"Virginia"	"51"	"Chesterfield County, VA"	"51041"	"White"	"2106-3"	11	232189	Unreliable
+	"2012"	"2012"	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	26	775750	3.4
+	"2012"	"2012"	"Virginia"	"51"	"Prince William County, VA"	"51153"	"White"	"2106-3"	22	288946	7.6
+	"2012"	"2012"	"Virginia"	"51"	"Tazewell County, VA"	"51185"	"White"	"2106-3"	12	42304	Unreliable
+	"2012"	"2012"	"Virginia"	"51"	"Norfolk city, VA"	"51710"	"White"	"2106-3"	10	123822	Unreliable
+	"2012"	"2012"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"White"	"2106-3"	12	317066	Unreliable
+	"2012"	"2012"	"Washington"	"53"	"Benton County, WA"	"53005"	"White"	"2106-3"	10	169746	Unreliable
+	"2012"	"2012"	"Washington"	"53"	"Clark County, WA"	"53011"	"White"	"2106-3"	25	394213	6.3
+	"2012"	"2012"	"Washington"	"53"	"Cowlitz County, WA"	"53015"	"White"	"2106-3"	14	96009	Unreliable
+	"2012"	"2012"	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	60	1479149	4.1
+	"2012"	"2012"	"Washington"	"53"	"Kitsap County, WA"	"53035"	"White"	"2106-3"	14	220630	Unreliable
+	"2012"	"2012"	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	44	647802	6.8
+	"2012"	"2012"	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	66	611660	10.8
+	"2012"	"2012"	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	46	438592	10.5
+	"2012"	"2012"	"Washington"	"53"	"Thurston County, WA"	"53067"	"White"	"2106-3"	13	223822	Unreliable
+	"2012"	"2012"	"Washington"	"53"	"Yakima County, WA"	"53077"	"White"	"2106-3"	15	221959	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	"White"	"2106-3"	19	96756	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Boone County, WV"	"54005"	"White"	"2106-3"	18	24210	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Cabell County, WV"	"54011"	"White"	"2106-3"	21	89963	23.3
+	"2012"	"2012"	"West Virginia"	"54"	"Fayette County, WV"	"54019"	"White"	"2106-3"	18	43271	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"White"	"2106-3"	45	173430	25.9
+	"2012"	"2012"	"West Virginia"	"54"	"Logan County, WV"	"54045"	"White"	"2106-3"	12	35102	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"McDowell County, WV"	"54047"	"White"	"2106-3"	10	19206	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Mercer County, WV"	"54055"	"White"	"2106-3"	32	57823	55.3
+	"2012"	"2012"	"West Virginia"	"54"	"Mingo County, WV"	"54059"	"White"	"2106-3"	16	25437	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Nicholas County, WV"	"54067"	"White"	"2106-3"	14	25960	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	"White"	"2106-3"	48	71157	67.5
+	"2012"	"2012"	"West Virginia"	"54"	"Wood County, WV"	"54107"	"White"	"2106-3"	16	84548	Unreliable
+	"2012"	"2012"	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	"White"	"2106-3"	21	23007	91.3
+	"2012"	"2012"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	25	442106	5.7
+	"2012"	"2012"	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"White"	"2106-3"	24	150075	16.0
+	"2012"	"2012"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	26	270065	9.6
+	"2012"	"2012"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	68	636537	10.7
+	"2012"	"2012"	"Wisconsin"	"55"	"Racine County, WI"	"55101"	"White"	"2106-3"	10	166645	Unreliable
+	"2012"	"2012"	"Wisconsin"	"55"	"Rock County, WI"	"55105"	"White"	"2106-3"	12	147897	Unreliable
+	"2012"	"2012"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"White"	"2106-3"	31	371959	8.3
