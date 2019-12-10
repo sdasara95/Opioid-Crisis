@@ -17,3 +17,6 @@ https://github.com/wpinvestigative/arcos-api/blob/master/data/data_dictionary.cs
 
 The notebook <b>main.ipynb</b> contains the final code.
 
+The visualization can be viewed here:
+https://sdasara95.github.io/Opioid-Crisis/
+
